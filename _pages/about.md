@@ -18,4 +18,8 @@ I received PhD in Computer Science at Arizona State University. My thesis, Conne
 
 Prior to my PhD study, I received my B.S. and M.S. in Computer Science at National Chiao Tung University (NCTU), Taiwan. I worked at CyberLink, the maker of PowerDVD video players, as a software engineer for four years. I was also the co-founder of an online taxi carpooling service serving the Taipei metropolitan area.
 
-<img src='/images/profile.png'>
+<img src='/images/supervision_award.jpg'>
+I won the “Excellent Superviser Award”(績優導師) at NYCU for the 2021 calendar year.
+
+<img src='/images/profile.jpg'>
+At Siggraph Asia 2011 Technical Papers Fast Forward.
