@@ -36,3 +36,33 @@ distortion measured quantitatively and qualitatively.
 </p>
 
 <hr>
+
+<h1>High-Resolution Depth Estimation for 360◦ Panoramas through Perspective and Panoramic Depth Images Registration</h1>
+<p><a href="https://pengchihan.co/wp-content/uploads/2022/10/WACV_overview.jpg"><img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2022/10/WACV_overview.jpg" alt="" width="600"></a></p>
+<p>Chi-Han Peng and Jiayao Zhang<br>
+<a href="https://wacv2023.thecvf.com/">IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)</a>, 2023.</br><a href="https://arxiv.org/abs/2210.10414">Paper (Arxiv)</a>|Code (coming soon)|<button onclick="function_WACV2023()">BibTex</button>
+<div id="WACV2023" style="display:none;">
+@InProceedings{Peng_2023_WACV,<br>
+    author    = {Peng, Chi-Han and Zhang, Jiayao},<br>
+    title     = {High-Resolution Depth Estimation for 360deg Panoramas Through Perspective and Panoramic Depth Images Registration},<br>
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},<br>
+    month     = {January},<br>
+    year      = {2023},<br>
+    pages     = {3116-3125}<br>
+}
+</div>
+<script>
+function function_WACV2023() {
+  var x = document.getElementById("WACV2023");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
+</p>
+<p>Abstract:<br>
+We propose a novel approach to compute high-resolution (2048x1024 and higher) depths for panoramas that is significantly faster and qualitatively and qualitatively more accurate than the current state-of-the-art method [360OMonoDepth]. As traditional neural network-based methods have limitations in the output image sizes (up to 1024x512) due to GPU memory constraints, both [360OMonoDepth] and our method rely on stitching multiple perspective disparity or depth images to come out an unified panoramic depth map. However, to achieve globally consistent stitching, [360OMonoDepth] relied on solving extensive disparity map alignment and Poisson-based blending problems, leading to high computation time. Instead, we propose to use an existing panoramic depth map (computed in real-time by any panorama-based method) as the common target for the individual perspective depth maps to register to. This key idea made producing globally consistent stitching results a straightforward task. Our experiments show that our method generates qualitatively better results than existing panorama-based methods, and further outperforms them quantitatively on datasets unseen by these methods.</p>
+
+<hr>
