@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the College of AI, NYCU Tainan campus. My research areas include AI/neural networks, Computer Graphics, and Computer Vision. In particular, I am interested in 3D applications enabled by 360-degree panoramic cameras, AI in medicine, and AI in the architecture, engineering, and construction (AEC) industries.
+I am an Assistant Professor at the <a href="https://ai.nycu.edu.tw/en/">College of AI</a>, <a href="https://en.nycu.edu.tw/">NYCU</a> Tainan campus. My research areas include AI/neural networks, Computer Graphics, and Computer Vision. In particular, I am interested in 3D applications enabled by 360-degree panoramic cameras, AI in medicine, and AI in the architecture, engineering, and construction (AEC) industries.
 
 I was a research scientist at the Visual Computing Center at King Abdullah University of Science and Technology (KAUST), working with Prof. Peter Wonka.
 
@@ -18,8 +18,8 @@ I received PhD in Computer Science at Arizona State University. My thesis, Conne
 
 Prior to my PhD study, I received my B.S. and M.S. in Computer Science at National Chiao Tung University (NCTU), Taiwan. I worked at CyberLink, the maker of PowerDVD video players, as a software engineer for four years. I was also the co-founder of an online taxi carpooling service serving the Taipei metropolitan area.
 
-<img width=600 src='/images/supervising_award.jpg'><br>
+<img width='400' src='/images/supervising_award.jpg'><br>
 I won the “Excellent Superviser Award”(績優導師) at NYCU for the 2021 calendar year.
 
-<img width=600 src='/images/profile.jpg'><br>
+<img width='600' src='/images/profile.jpg'><br>
 At Siggraph Asia 2011 Technical Papers Fast Forward.
