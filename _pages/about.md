@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the <a href="https://ai.nycu.edu.tw/en/">College of AI</a>, <a href="https://en.nycu.edu.tw/">NYCU</a> Tainan campus. My research areas include AI/neural networks, Computer Graphics, and Computer Vision in general. In particular, I am interested in 3D applications enabled by 360-degree panoramic cameras, AI in medicine, and AI in the architecture, engineering, and construction (AEC) industries.
+I am an Assistant Professor at the <a href="https://ai.nycu.edu.tw/en/">College of AI</a>, <a href="https://en.nycu.edu.tw/">National Yang Ming Chiao Tung University (NYCU)</a> Tainan campus. My research areas include AI/neural networks, Computer Graphics, and Computer Vision in general. In particular, I am interested in 3D applications enabled by 360-degree panoramic cameras, AI in medicine, and AI in the architecture, engineering, and construction (AEC) industries.
 
 I was a research scientist at the <a href="https://vcc.kaust.edu.sa">Visual Computing Center</a> at <a href="http://www.kaust.edu.sa">King Abdullah University of Science and Technology (KAUST)</a>, working with Prof. <a href="http://peterwonka.net/">Peter Wonka</a>.
 
