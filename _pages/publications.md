@@ -7,10 +7,10 @@ author_profile: true
 
 <hr>
 
-<h2>GPR-Net: Multi-view Layout Estimation via a Geometry-aware Panorama Registration Network</h2>
+<h3>GPR-Net: Multi-view Layout Estimation via a Geometry-aware Panorama Registration Network</h3>
 <p><a href="https://pengchihan.co/wp-content/uploads/2023/05/GPRNet.png"><img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2023/05/GPRNet.png" alt="" width="600"></a></p>
 <p>Jheng-Wei Su, Chi-Han Peng, Peter Wonka, Hung-Kuo Chu<br>
-IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR) 2023, <a href="https://sites.google.com/view/omnicv2023">Omnidirectional Computer Vision Workshop (Omnicv2023)</a>, to appear.</br>
+IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR) 2023, <a href="https://sites.google.com/view/omnicv2023">Omnidirectional Computer Vision Workshop (Omnicv2023)</a>, to appear.<br>
 <a href="https://arxiv.org/abs/2210.11419">Paper (Arxiv)</a>
 </p>
 <p>Abstract:<br>
@@ -19,7 +19,7 @@ Reconstructing 3D layouts from multiple 360∘ panoramas has received increasing
 
 <hr>
 
-<h2>Distortion Reduction for Off-Center Perspective Projection of Panoramas</h2>
+<h3>Distortion Reduction for Off-Center Perspective Projection of Panoramas</h3>
 <p><a href="https://pengchihan.co/wp-content/uploads/2021/11/representative.jpg"><img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2021/11/representative.jpg" alt="" width="600"></a></p>
 <p>Chi-Han Peng, Jiayao Zhang, Chia-Chia Chen, Yun-Wei Lin<br>
 <a href="https://www.art-science.org/nicograph/nicoint2023/">NICOGRAPH International 2023</a>, to appear.<br>
