@@ -8,8 +8,8 @@ author_profile: true
 <hr>
 
 <h2>GPR-Net: Multi-view Layout Estimation via a Geometry-aware Panorama Registration Network</h2>
-<p><a href="https://pengchihan.co/wp-content/uploads/2023/05/GPRNet.png"><img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2023/05/GPRNet.png" alt="" width="600"></a><br>
-Jheng-Wei Su, Chi-Han Peng, Peter Wonka, Hung-Kuo Chu<br>
+<p><a href="https://pengchihan.co/wp-content/uploads/2023/05/GPRNet.png"><img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2023/05/GPRNet.png" alt="" width="600"></a></p>
+<p>Jheng-Wei Su, Chi-Han Peng, Peter Wonka, Hung-Kuo Chu<br>
 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR) 2023, <a href="https://sites.google.com/view/omnicv2023">Omnidirectional Computer Vision Workshop (Omnicv2023)</a>, to appear.</br>
 <a href="https://arxiv.org/abs/2210.11419">Paper (Arxiv)</a>
 </p>
@@ -19,28 +19,20 @@ Reconstructing 3D layouts from multiple 360∘ panoramas has received increasing
 
 <hr>
 
-<p><a href="https://pengchihan.co/wp-content/uploads/2021/11/representative.jpg
-"><img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2021/11/representative.jpg" alt="" width="600"></a></p>
 <h2>Distortion Reduction for Off-Center Perspective Projection of Panoramas</h2>
+<p><a href="https://pengchihan.co/wp-content/uploads/2021/11/representative.jpg"><img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2021/11/representative.jpg" alt="" width="600"></a></p>
 <p>Chi-Han Peng, Jiayao Zhang, Chia-Chia Chen, Yun-Wei Lin<br>
 <a href="https://www.art-science.org/nicograph/nicoint2023/">NICOGRAPH International 2023</a>, to appear.<br>
 <a href="https://pengchihan.co/wp-content/uploads/2023/05/NICOGRAPH2023_final.pdf">Paper (author's version)</a> | <a href="https://arxiv.org/abs/2111.12018">Paper (previous Arxiv version)</br></a></p>
 <p>Abstract:<br>
-A key assumption of perspective projection is that
-linear features in 3D shall remain linear after being projected
-to the 2D screen. This assumption is preserved when we draw
-a spherical panorama perspectively in arbitrary viewing directions
-and field-of-views as long as the camera position is fixed
-at the center. However, when the camera moves away from
-the center, barrel-like distortions appear and such assumption
-breaks. To address this issue, we propose modifications to the
-equirectangular-to-perspective (E2P) projection that significantly
-reduced distortion of linear features when the camera position is
-away from the center. We compared with other common methods
-that aim to augment panoramas with 3D information including:
-1) building a point cloud augmented with per-pixel depth and 2)
-building a 3D room model according to room layouts, and found
-that our method produced rendering results with less linearity
-distortion measured quantitatively and qualitatively.</p>
+A key assumption of perspective projection is that linear features in 3D shall remain linear after being projected to the 2D screen. 
+This assumption is preserved when we draw a spherical panorama perspectively in arbitrary viewing directions and field-of-views 
+as long as the camera position is fixed at the center. However, when the camera moves away from the center, barrel-like distortions 
+appear and such assumption breaks. To address this issue, we propose modifications to the equirectangular-to-perspective (E2P) projection 
+that significantly reduced distortion of linear features when the camera position is away from the center. We compared with other common methods
+that aim to augment panoramas with 3D information including: 1) building a point cloud augmented with per-pixel depth and 2)
+building a 3D room model according to room layouts, and found that our method produced rendering results with less linearity
+distortion measured quantitatively and qualitatively.
+</p>
 
 <hr>
