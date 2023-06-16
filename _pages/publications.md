@@ -7,7 +7,7 @@ author_profile: true
 
 <hr>
 
-<h3>GPR-Net: Multi-view Layout Estimation via a Geometry-aware Panorama Registration Network</h3>
+<h2>GPR-Net: Multi-view Layout Estimation via a Geometry-aware Panorama Registration Network</h2>
 <p><a href="https://pengchihan.co/wp-content/uploads/2023/05/GPRNet.png"><img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2023/05/GPRNet.png" alt="" width="600"></a></p>
 <p>Jheng-Wei Su, Chi-Han Peng, Peter Wonka, Hung-Kuo Chu<br>
 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR) 2023, <a href="https://sites.google.com/view/omnicv2023">Omnidirectional Computer Vision Workshop (Omnicv2023)</a>, to appear<br>
@@ -19,7 +19,7 @@ Reconstructing 3D layouts from multiple 360∘ panoramas has received increasing
 
 <hr>
 
-<h3>Distortion Reduction for Off-Center Perspective Projection of Panoramas</h3>
+<h2>Distortion Reduction for Off-Center Perspective Projection of Panoramas</h2>
 <p><a href="https://pengchihan.co/wp-content/uploads/2021/11/representative.jpg"><img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2021/11/representative.jpg" alt="" width="600"></a></p>
 <p>Chi-Han Peng, Jiayao Zhang, Chia-Chia Chen, Yun-Wei Lin<br>
 <a href="https://www.art-science.org/nicograph/nicoint2023/#nicoint2023-award">NICOGRAPH International 2023</a>. *Best Short Paper Award<br>
@@ -37,7 +37,7 @@ distortion measured quantitatively and qualitatively.
 
 <hr>
 
-<h1>High-Resolution Depth Estimation for 360◦ Panoramas through Perspective and Panoramic Depth Images Registration</h1>
+<h2>High-Resolution Depth Estimation for 360◦ Panoramas through Perspective and Panoramic Depth Images Registration</h2>
 <p><a href="https://pengchihan.co/wp-content/uploads/2022/10/WACV_overview.jpg"><img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2022/10/WACV_overview.jpg" alt="" width="600"></a></p>
 <p>Chi-Han Peng and Jiayao Zhang<br>
 <a href="https://wacv2023.thecvf.com/">IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)</a>, 2023.</br><a href="https://arxiv.org/abs/2210.10414">Paper (Arxiv)</a>|Code (coming soon)|<button onclick="function_WACV2023()">BibTex</button>
