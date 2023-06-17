@@ -226,7 +226,7 @@ We propose a novel framework to estimate room layouts from multiple panoramas ta
 <hr>
 
 <h2>Manhattan Room Layout Reconstruction from a Single 360∘ Image: A Comparative Study of State-of-the-Art Methods</h2>
-<p><a href="https://pengchihan.co/wp-content/uploads/2021/08/IJCV2021_teaser.png"><img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2021/08/IJCV2021_teaser.png" alt="" width="600"></a></p>
+<p><a href="/files/IJCV2021_teaser.png"><img class="alignleft size-full wp-image-377" src="/files/IJCV2021_teaser.png" alt="" width="600"></a></p>
 <p>Chuhang Zou, Jheng-Wei Su, Chi-Han Peng, Alex Colburn, Qi Shan, Peter Wonka, Hung-Kuo Chu, and Derek Hoiem<br>
 International Journal of Computer Vision (IJCV), 2021<br>
 <a href="https://arxiv.org/pdf/1910.04099.pdf">Paper (Preprint)</a>&nbsp;|&nbsp;<button onclick="function_IJCV2021()">BibTex</button>
@@ -266,10 +266,10 @@ and the impact of the design decisions. For a complete evaluation, we also propo
 <hr>
 
 <h2>Checkerboard Patterns with Black Rectangles</h2>
-<p><a href="https://pengchihan.co/wp-content/uploads/2019/08/teaser.png"><img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2019/08/teaser.png" alt="" width="600"></a></p>
+<p><a href="/files/checkerboard.png"><img class="alignleft size-full wp-image-377" src="/files/checkerboard.png" alt="" width="600"></a></p>
 <p>Chi-Han Peng*, Caigui Jiang*, Peter Wonka, Helmut Pottmann<br>
 ACM Transactions on Graphics (Proceedings of ACM SIGGRAPH ASIA 2019)<br>
-<a href="https://pengchihan.co/papers/checkerboard_main.pdf">Paper (authors' version)</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/checkerboard_additional_materials.pdf">Additional Materials</a> | <a href="https://pengchihan.co/papers/checkerboard_video_SIGA19.mp4">Video</a>&nbsp;|&nbsp;<button onclick="function_Sig2019()">BibTex</button>
+<a href="https://pengchihan.co/papers/checkerboard_main.pdf">Paper</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/checkerboard_additional_materials.pdf">Additional Materials</a> | <a href="https://pengchihan.co/papers/checkerboard_video_SIGA19.mp4">Video</a>&nbsp;|&nbsp;<button onclick="function_Sig2019()">BibTex</button>
 <div id="Sig2019" style="display:none;">
 @article{10.1145/3355089.3356514,<br>
 author = {Peng, Chi-Han and Jiang, Caigui and Wonka, Peter and Pottmann, Helmut},<br>
@@ -304,7 +304,7 @@ Checkerboard patterns with black rectangles can be derived from quad meshes with
 <hr>
 
 <h2>DuLa-Net: A Dual-Projection Network for Estimating Room Layouts from a Single RGB Panorama</h2>
-<p><a href="https://pengchihan.co/wp-content/uploads/2019/03/DulaNet.png"><img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2019/03/DulaNet.png" alt="" width="600"></a></p>
+<p><a href="/files/DulaNet.png"><img class="alignleft size-full wp-image-377" src="/files/DulaNet.png" alt="" width="600"></a></p>
 <p>Shang-Ta Yang, Fu-En Wang, Chi-Han Peng, Peter Wonka, Min Sun, Hung-Kuo Chu<br>Conference on Computer Vision and Pattern Recognition (CVPR), 2019<br>
 <a href="https://arxiv.org/abs/1811.11977">Paper (Arxiv)</a>&nbsp;|&nbsp;<a href="https://github.com/SunDaDenny/DuLa-Net">GitHub</a>&nbsp;|&nbsp;<button onclick="function_CVPR2019()">BibTex</button>
 <div id="CVPR2019" style="display:none;">
