@@ -40,7 +40,7 @@ Reconstructing 3D layouts from multiple 360∘ panoramas has received increasing
 <hr>
 
 <h2>Distortion Reduction for Off-Center Perspective Projection of Panoramas</h2>
-<p><a href="https://pengchihan.co/wp-content/uploads/2021/11/representative.jpg"><img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2021/11/representative.jpg" alt="" width="600"></a></p>
+<p><a href="/files/nicograph.jpg"><img class="alignleft size-full wp-image-377" src="/files/nicograph.jpg" alt="" width="600"></a></p>
 <p>Chi-Han Peng, Jiayao Zhang, Chia-Chia Chen, Yun-Wei Lin<br>
 <a href="https://www.art-science.org/nicograph/nicoint2023/#nicoint2023-award">NICOGRAPH International 2023</a>. <font color="red">*Best Short Paper Award</font><br>
 <a href="https://pengchihan.co/wp-content/uploads/2023/05/NICOGRAPH2023_final.pdf">Paper (author's version)</a>&nbsp;|&nbsp;<a href="https://arxiv.org/abs/2111.12018">Paper (previous Arxiv version)</a>&nbsp;|&nbsp;<button onclick="function_NICOGRAPH2023()">BibTex</button>

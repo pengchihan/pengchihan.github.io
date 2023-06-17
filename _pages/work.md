@@ -8,13 +8,13 @@ author_profile: true
 <hr>
 
 <h2>National Yang Ming Chiao Tung University (NYCU), Taiwan.</h2>
-<p><b>Assistant Professor</b>, College of AI<br>
+<p><b>Assistant Professor</b>. College of AI<br>
 2020-present</p>
 
 <hr>
 
 <h2>ShanghaiTech University, China</h2>
-<p><b>Assistant Professor</b>, School of Information Science and Technology.<br>
+<p><b>Assistant Professor</b>. School of Information Science and Technology.<br>
 2019-2020</p>
 
 <hr>
