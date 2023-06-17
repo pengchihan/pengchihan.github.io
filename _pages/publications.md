@@ -306,7 +306,9 @@ Checkerboard patterns with black rectangles can be derived from quad meshes with
 <h2>DuLa-Net: A Dual-Projection Network for Estimating Room Layouts from a Single RGB Panorama</h2>
 <p><a href="/files/DulaNet.png"><img class="alignleft size-full wp-image-377" src="/files/DulaNet.png" alt="" width="600"></a></p>
 <p>Shang-Ta Yang, Fu-En Wang, Chi-Han Peng, Peter Wonka, Min Sun, Hung-Kuo Chu<br>Conference on Computer Vision and Pattern Recognition (CVPR), 2019<br>
-<a href="https://arxiv.org/abs/1811.11977">Paper (Arxiv)</a>&nbsp;|&nbsp;<a href="https://github.com/SunDaDenny/DuLa-Net">GitHub</a>&nbsp;|&nbsp;<button onclick="function_CVPR2019()">BibTex</button>
+<a href="https://arxiv.org/abs/1811.11977">Paper (Arxiv)</a>&nbsp;|&nbsp;
+<a href="https://cgv.cs.nthu.edu.tw/projects/dulanet">Project</a>&nbsp;|&nbsp;
+<a href="https://github.com/SunDaDenny/DuLa-Net">GitHub</a>&nbsp;|&nbsp;<button onclick="function_CVPR2019()">BibTex</button>
 <div id="CVPR2019" style="display:none;">
 @inproceedings{Yang:2019:DuLa-Net,<br>
 author    = {Yang, Shang-Ta and Wang, Fu-En and Peng, Chi-Han and Wonka, Peter and Sun, Min and Chu, Hung-Kuo},<br>
@@ -332,7 +334,7 @@ We present a deep learning framework, called DuLa-Net, to predict Manhattan-worl
 <hr>
 
 <h2>Designing Patterns using Triangle-Quad Hybrid Meshes</h2>
-<p><a href="https://pengchihan.co/wp-content/uploads/2018/04/Representative-.jpg"><img class="wp-image-87 aligncenter" src="https://pengchihan.co/wp-content/uploads/2018/04/Representative-.jpg" alt="layout" width="600"></a></p>
+<p><a href="/files/hybrid.jpg"><img class="wp-image-87 aligncenter" src="/files/hybrid.jpg" alt="layout" width="600"></a></p>
 <p>Chi-Han Peng, Helmut Pottmann, Peter Wonka<br>ACM Transactions on Graphics (Proceedings of ACM SIGGRAPH 2018)<br>
 <a href="https://pengchihan.co/papers/hybrid/DesigningPatternsUsingTriangleQuadHybridMeshes_main.pdf">Paper (authors' version)</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/hybrid/DesigningPatternsUsingTriangleQuadHybridMeshes_additional_materials.pdf">Additional Materials</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/hybrid/DesigningPatternsUsingTriangleQuadHybridMeshes.mp4">Video</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/hybrid/DesigningPatternsUsingTriangleQuadHybridMeshes_models.zip">Models</a>&nbsp;|&nbsp;<button onclick="function_Sig2018()">BibTex</button>
 <div id="Sig2018" style="display:none;">
@@ -367,9 +369,9 @@ We present a framework to generate mesh patterns that consist of a hybrid of bot
 <hr>
 
 <h2>Computational Network Design from Functional Specifications</h2>
-<p><a href="https://pengchihan.co/wp-content/uploads/2018/04/ComputationalNetworkDesignFromFunctionalSpecifications.png"><img class="alignnone  wp-image-87" src="https://pengchihan.co/wp-content/uploads/2018/04/ComputationalNetworkDesignFromFunctionalSpecifications.png" alt="layout" width="600"></a></p>
+<p><a href="/files/ComputationalNetworkDesignFromFunctionalSpecifications.png"><img class="alignnone  wp-image-87" src="/files/ComputationalNetworkDesignFromFunctionalSpecifications.png" alt="layout" width="600"></a></p>
 <p>Chi-Han Peng, Yong-Liang Yang, Fan Bao, Daniel Fink, Dong-Ming Yan, Peter Wonka, Niloy J. Mitra<br>ACM Transactions on Graphics (Proceedings of ACM SIGGRAPH 2016)<br>
-<a href="https://pengchihan.co/wp-content/uploads/2018/04/functional_layout.pdf">Paper (authors' version)</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/wp-content/uploads/2018/04/functional_layout.pptx">Slides</a>&nbsp;|&nbsp;<button onclick="function_Sig2016()">BibTex</button>
+<a href="https://pengchihan.co/wp-content/uploads/2018/04/functional_layout.pdf">Paper</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/wp-content/uploads/2018/04/functional_layout.pptx">Slides</a>&nbsp;|&nbsp;<button onclick="function_Sig2016()">BibTex</button>
 <div id="Sig2016" style="display:none;">
 @article{10.1145/2897824.2925935,<br>
 author = {Peng, Chi-Han and Yang, Yong-Liang and Bao, Fan and Fink, Daniel and Yan, Dong-Ming and Wonka, Peter and Mitra, Niloy J.},<br>
@@ -403,7 +405,7 @@ Connectivity and layout of underlying networks largely determine agent behavior 
 <hr>
 
 <h2>Computing Layouts with Deformable Templates</h2>
-<p><a href="https://pengchihan.co/wp-content/uploads/2014/04/pentagon.png"><img class="alignnone  wp-image-87" src="https://pengchihan.co/wp-content/uploads/2014/04/pentagon_small.png" alt="layout" width="600"></a></p>
+<p><a href="/files/pentagon.png"><img class="alignnone  wp-image-87" src="/files/pentagon.png" alt="layout" width="600"></a></p>
 <p>Chi-Han Peng, Yong-Liang Yang, and Peter Wonka<br>ACM Transactions on Graphics (Proceedings of ACM SIGGRAPH 2014)<br>
 <a href="https://pengchihan.co/papers/tiling/">Project Page</a> | <a href="https://pengchihan.co/papers/tiling/Computing_Layouts_with_Deformable_Templates.pdf">Paper (authors' version)</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/tiling/Computing_Layouts_with_Deformable_Templates_additional_materials.pdf">Additional Materials</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/tiling/Computing_Layouts_with_Deformable_Templates_Siggraph2014.pptx">Talk Slides</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/tiling/Computing_Layouts_with_Deformable_Templates_fastforward.pptx">Fast-Forward Slides</a>&nbsp;|&nbsp;<button onclick="function_Sig2014()">BibTex</button>
 <div id="Sig2014" style="display:none;">
