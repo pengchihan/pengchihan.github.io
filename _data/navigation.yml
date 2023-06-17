@@ -10,7 +10,10 @@ main:
     url: /cv/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/   
+
+  - title: "Work Experience"
+    url: /work/       
     
 #  - title: "Portfolio"
 #    url: /portfolio/
