@@ -511,7 +511,7 @@ We propose a connectivity editing framework for quad-dominant meshes. In our fra
 <hr>
 
 <h2>Connectivity Editing for Quadrilateral Meshes</h2>
-<p><a href="https://pengchihan.co/wp-content/uploads/2014/03/teaser.png"><img class="wp-image-50 alignnone" src="https://pengchihan.co/wp-content/uploads/2014/01/connectivity_editing_for_quadrilateral_meshes.png" alt="connectivity_editing_for_quadrilateral_meshes" width="600" height="218"></a></p>
+<p><a href="/files/quadedit.png"><img class="wp-image-50 alignnone" src="/files/quadedit.png" alt="connectivity_editing_for_quadrilateral_meshes" width="600" height="218"></a></p>
 <p>Chi-Han Peng, Eugene Zhang, Yoshihiro Kobayashi, and Peter Wonka<br>ACM Transactions on Graphics (Proceedings of ACM SIGGRAPH ASIA 2011)<br><a href="https://pengchihan.co/papers/connectivity/">Project Page</a>&nbsp;|&nbsp;<a href="http://www.public.asu.edu/~pchihan/connectivity/ConnectivityEditingForQuadrilateralMeshes.pdf">Paper</a>&nbsp;|&nbsp;<a href="http://www.public.asu.edu/~pchihan/connectivity/ConnectivityEditingForQuadrilateralMeshes_additional_material.pdf">Additional Materials</a>&nbsp;|&nbsp;<a href="http://www.youtube.com/watch?v=7h4fcjdqA8Q">Video (youtube)</a>&nbsp;|&nbsp;<a href="https://dl.dropboxusercontent.com/u/4064057/SiggraphAsia2011_Presentation.pptx">Slides</a>&nbsp;|&nbsp;<button onclick="function_Sig2011()">BibTex</button>
 <div id="Sig2011" style="display:none;">
 @article{10.1145/2070781.2024175,<br>
@@ -547,7 +547,7 @@ We propose new connectivity editing operations for quadrilateral meshes with the
 <hr>
 
 <h2>User-Assisted Mesh Simplification</h2>
-<p><img class="wp-image-63 alignnone" src="https://pengchihan.co/wp-content/uploads/2014/01/userassistedmeshsimplification1.png" alt="userassistedmeshsimplification" width="600" height="246"></p>
+<p><a href="/files/userassistedmeshsimplification1.png"><img class="wp-image-63 alignnone" src="/files/userassistedmeshsimplification1.png" alt="userassistedmeshsimplification" width="600" height="246"></a></p>
 <p>Tan-Chi Ho, Yi-Chun Lin, Jung-Hong Chuang, Chi-Han Peng, Yu-Jung Cheng<br>
 VRCIA '06 Proceedings of the 2006 ACM international conference on Virtual reality continuum and its applications<br>
 <a href="https://dl.dropboxusercontent.com/u/4064057/User%20Assisted%20Mesh%20Simplification.pdf">Paper</a>&nbsp;|&nbsp;<button onclick="function_VRCIA()">BibTex</button>
