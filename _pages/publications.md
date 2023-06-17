@@ -207,3 +207,118 @@ Computational methods to compute similarities between floor plans can help archi
 originally calculated by LayoutGMN. Quantitative and qualitative evaluations show that our results match the distributions of the original LayoutGMN similarity scores. User study shows that our similarity results largely match human expectations.</p>
 
 <hr>
+
+<h2>Reconstructing 3D Indoor Layout from Multiple Panoramic Images (結合深度學習與圖形最佳化方法之多視角室內全景影像三維格局重建)</h2>
+<p><a href="https://pengchihan.co/wp-content/uploads/2021/08/CGW2021_teaser.png"><img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2021/08/CGW2021_teaser.png" alt="" width="600"></a></p>
+<p>Sio-Keong Si, Jheng-Wei Su, Chi-Han Peng, Kuo-Wei Chen, Felix Chang, Chih-Yuan Yao, and Hung-Kuo Chu <br>
+Computer Graphics Workshop (CGW), 2021 <font color="red"> *Best Paper Award</font><br>
+<a href="https://pengchihan.co/wp-content/uploads/2021/08/Reconstructing-3D-Indoor-Layout-from-Multiple-Panoramic_Images_CGW2021.pdf">Paper (Author's version)</a></p>
+<p>Abstract:<br>
+We propose a novel framework to estimate room layouts from multiple panoramas taken inside the same room with registration. Our solution consists of the following major components. First, we propose a boxification line prediction network that can predict boxification lines for each panorama in the same room. Second, we propose a graph-cut based binary segmentation that produces room layouts with sharp corners and straight walls. Third, we also annotated one multi-view consistent layout dataset for this new layout prediction framework. Our quantitative results show an improvement over single-view room layout estimation algorithms.</p>
+
+<hr>
+
+<h2>Manhattan Room Layout Reconstruction from a Single 360∘ Image: A Comparative Study of State-of-the-Art Methods</h2>
+<p><a href="https://pengchihan.co/wp-content/uploads/2021/08/IJCV2021_teaser.png"><img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2021/08/IJCV2021_teaser.png" alt="" width="600"></a></p>
+<p>Chuhang Zou, Jheng-Wei Su, Chi-Han Peng, Alex Colburn, Qi Shan, Peter Wonka, Hung-Kuo Chu, and Derek Hoiem<br>
+International Journal of Computer Vision (IJCV), 2021<br>
+<a href="https://arxiv.org/pdf/1910.04099.pdf">Paper (Preprint)</a>&nbsp;|&nbsp;<button onclick="function_IJCV2021()">BibTex</button>
+<div id="IJCV2021" style="display:none;">
+@article{898f68bc4970428688b5ebb33a7ea681,<br>
+title = "Manhattan Room Layout Reconstruction from a Single 360 ∘ Image: A Comparative Study of State-of-the-Art Methods",<br>
+author = "Chuhang Zou and Su, {Jheng Wei} and Peng, {Chi Han} and Alex Colburn and Qi Shan and Peter Wonka and Chu, {Hung Kuo} and Derek Hoiem",<br>
+year = "2021",<br>
+month = may,<br>
+doi = "10.1007/s11263-020-01426-8",<br>
+volume = "129",<br>
+pages = "1410--1431",<br>
+journal = "International Journal of Computer Vision",<br>
+issn = "0920-5691",<br>
+publisher = "Springer",<br>
+number = "5",<br>
+}
+</div>
+<script>
+function function_IJCV2021() {
+  var x = document.getElementById("IJCV2021");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script></p>
+<p>Abstract:<br>
+Recent approaches for predicting layouts from 360◦ panoramas produce excellent results. These approaches build
+on a common framework consisting of three steps: a preprocessing step based on edge-based alignment, prediction
+of layout elements, and a post-processing step by fitting a 3D layout to the layout elements. Until now, it has been
+difficult to compare the methods due to multiple different design decisions, such as the encoding network (e.g., SegNet or ResNet), type of elements predicted (e.g., corners,
+wall/floor boundaries, or semantic segmentation), or method of fitting the 3D layout. To address this challenge, we summarize and describe the common framework, the variants,
+and the impact of the design decisions. For a complete evaluation, we also propose extended annotations for the Matterport3D dataset, and introduce two depth-based evaluation metrics.</p>
+
+<hr>
+
+<h2>Checkerboard Patterns with Black Rectangles</h2>
+<p><a href="https://pengchihan.co/wp-content/uploads/2019/08/teaser.png"><img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2019/08/teaser.png" alt="" width="600"></a></p>
+<p>Chi-Han Peng*, Caigui Jiang*, Peter Wonka, Helmut Pottmann<br>
+ACM Transactions on Graphics (Proceedings of ACM SIGGRAPH ASIA 2019)<br><a href="https://pengchihan.co/papers/checkerboard_main.pdf">Paper (authors' version)</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/checkerboard_additional_materials.pdf">Additional Materials</a> | <a href="https://pengchihan.co/papers/checkerboard_video_SIGA19.mp4">Video</a>&nbsp;|&nbsp;<button onclick="function_Sig2019()">BibTex</button>
+<div id="Sig2019" style="display:none;">
+@article{10.1145/3355089.3356514,<br>
+author = {Peng, Chi-Han and Jiang, Caigui and Wonka, Peter and Pottmann, Helmut},<br>
+title = {Checkerboard Patterns with Black Rectangles},<br>
+year = {2019},<br>
+issue_date = {December 2019},<br>
+publisher = {Association for Computing Machinery},<br>
+address = {New York, NY, USA},<br>
+volume = {38},<br>
+number = {6},<br>
+issn = {0730-0301},<br>
+doi = {10.1145/3355089.3356514},<br>
+journal = {ACM Trans. Graph.},<br>
+month = {nov},<br>
+articleno = {171},<br>
+numpages = {13},<br>
+}
+</div>
+<script>
+function function_Sig2019() {
+  var x = document.getElementById("Sig2019");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script></p>
+<p>Abstract:<br>
+Checkerboard patterns with black rectangles can be derived from quad meshes with orthogonal diagonals. First, we present an initial theoretical analysis of these quad meshes. The analysis reveals many possible applications in geometry processing and also motivates the numerical optimization for aesthetic and functional checkerboard pattern design. Second, we describe an optimization algorithm that transforms initial 2D and 3D quad meshes into quad meshes with orthogonal diagonals. Third, we present a 2D checkerboard pattern design framework based on integer programming inspired by the logo design of the 2020 Olympic games. Our results show a variety of 2D and 3D checkerboard patterns that can be derived from 2D or 3D quad meshes with orthogonal diagonals.</p>
+
+<hr>
+
+<h2>DuLa-Net: A Dual-Projection Network for Estimating Room Layouts from a Single RGB Panorama</h2>
+<p><a href="https://pengchihan.co/wp-content/uploads/2019/03/DulaNet.png"><img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2019/03/DulaNet.png" alt="" width="600"></a></p>
+<p>Shang-Ta Yang, Fu-En Wang, Chi-Han Peng, Peter Wonka, Min Sun, Hung-Kuo Chu<br>Conference on Computer Vision and Pattern Recognition (CVPR), 2019<br>
+<a href="https://arxiv.org/abs/1811.11977">Paper (Arxiv)</a>&nbsp;|&nbsp;<a href="https://github.com/SunDaDenny/DuLa-Net">GitHub</a>&nbsp;|&nbsp;<button onclick="function_CVPR2019()">BibTex</button>
+<div id="CVPR2019" style="display:none;">
+@inproceedings{Yang:2019:DuLa-Net,<br>
+author    = {Yang, Shang-Ta and Wang, Fu-En and Peng, Chi-Han and Wonka, Peter and Sun, Min and Chu, Hung-Kuo},<br>
+title     = {DuLa-Net: {A} Dual-Projection Network for Estimating Room Layouts From a Single {RGB} Panorama},<br>
+booktitle = {{IEEE} Conference on Computer Vision and Pattern Recognition, {CVPR} 2019},<br>
+pages     = {3363--3372},<br>
+year      = {2019}<br>
+} 
+</div>
+<script>
+function function_CVPR2019() {
+  var x = document.getElementById("CVPR2019");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script></p>
+<p>Abstract:<br>
+We present a deep learning framework, called DuLa-Net, to predict Manhattan-world 3D room layouts from a single RGB panorama. To achieve better prediction accuracy, our method leverages two projections of the panorama at once, namely the equirectangular panorama-view and the<br>perspective ceiling-view, that each contains different clues about the room layouts. Our network architecture consists of two encoder-decoder branches for analyzing each of the two views. In addition, a novel feature fusion structure is proposed to connect two branches, which are then jointly trained to predict the 2D floor plans and layout heights. To learn more complex room layouts, we introduce the Realtor360 dataset that contains panoramas of Manhattan world room layouts with different numbers of corners. Experimental results show that our work outperforms recent state-of-the-art in prediction accuracy and performance, especially in the rooms with non-cuboid layouts.</p>
+
+<hr>

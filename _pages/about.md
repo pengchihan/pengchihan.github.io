@@ -14,7 +14,7 @@ I was a research scientist at the <a href="https://vcc.kaust.edu.sa">Visual Comp
 
 I was a postdoctoral research associate at University College London (UCL), working with Prof. <a href="http://www0.cs.ucl.ac.uk/staff/n.mitra/">Niloy Mitra</a>. I worked at <a href="http://www.nogle.com">Nogle</a>, a private company based in Taipei, on the 3D modelling and simulation of real-world clothes for the fashion / garment industries.
 
-I received PhD in Computer Science at Arizona State University. My thesis, Connectivity Control for Quad-Dominant Meshes, was supervised by Prof. Peter Wonka. During my PhD studies, I also took summer intern at Adobe ATL (supervised by Dr. Nathan Carr and Radomir Mech) and visited KAUST, Saudi Arabia, and TU Vienna, Austria, for research collaborations.
+I received PhD in Computer Science at Arizona State University. My thesis, <a href="https://keep.lib.asu.edu/items/153051">Connectivity Control for Quad-Dominant Meshes</a>, was supervised by Prof. Peter Wonka. During my PhD studies, I also took summer intern at Adobe ATL (supervised by Dr. Nathan Carr and Radomir Mech) and visited KAUST, Saudi Arabia, and TU Vienna, Austria, for research collaborations.
 
 Prior to my PhD study, I received my B.S. and M.S. in Computer Science at National Chiao Tung University (NCTU), Taiwan. I worked at <a href="http://www.cyberlink.com/">CyberLink</a>, the maker of PowerDVD video players, as a software engineer for four years. I was also the co-founder of an online taxi carpooling service serving the Taipei metropolitan area.
 
