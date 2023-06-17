@@ -7,7 +7,7 @@ author_profile: true
 
 <hr>
 
-<h2>GPR-Net: Multi-view Layout Estimation via a Geometry-aware Panorama Registration Network</h2>
+<h2>[CVPRW2023] GPR-Net: Multi-view Layout Estimation via a Geometry-aware Panorama Registration Network</h2>
 <p><a href="/files/GPRNet.png"><img class="alignleft size-full wp-image-377" src="/files/GPRNet.png" alt="" width="600"></a></p>
 <p>Jheng-Wei Su, Chi-Han Peng, Peter Wonka, Hung-Kuo Chu<br>
 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR) 2023,<br>
@@ -39,7 +39,7 @@ Reconstructing 3D layouts from multiple 360∘ panoramas has received increasing
 
 <hr>
 
-<h2>Distortion Reduction for Off-Center Perspective Projection of Panoramas</h2>
+<h2>[NICOGRAPH2023] Distortion Reduction for Off-Center Perspective Projection of Panoramas</h2>
 <p><a href="/files/nicograph.jpg"><img class="alignleft size-full wp-image-377" src="/files/nicograph.jpg" alt="" width="600"></a></p>
 <p>Chi-Han Peng, Jiayao Zhang, Chia-Chia Chen, Yun-Wei Lin<br>
 <a href="https://www.art-science.org/nicograph/nicoint2023/#nicoint2023-award">NICOGRAPH International 2023</a>. <font color="red">*Best Short Paper Award</font><br>
@@ -77,7 +77,7 @@ distortion measured quantitatively and qualitatively.
 
 <hr>
 
-<h2>High-Resolution Depth Estimation for 360◦ Panoramas through Perspective and Panoramic Depth Images Registration</h2>
+<h2>[WACV2023] High-Resolution Depth Estimation for 360◦ Panoramas through Perspective and Panoramic Depth Images Registration</h2>
 <p><a href="https://pengchihan.co/wp-content/uploads/2022/10/WACV_overview.jpg"><img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2022/10/WACV_overview.jpg" alt="" width="600"></a></p>
 <p>Chi-Han Peng and Jiayao Zhang<br>
 <a href="https://wacv2023.thecvf.com/">IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)</a>, 2023<br>
@@ -113,11 +113,11 @@ We propose a novel approach to compute high-resolution (2048x1024 and higher) de
 
 <hr>
 
-<h2>H&E Stain Normalization using U-Net</h2>
-<p><a href="https://pengchihan.co/wp-content/uploads/2022/10/BIBE_Results.png"><img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2022/10/BIBE_Results.png" alt="" width="600"></a></p>
+<h2>[BIBE2022] H&E Stain Normalization using U-Net</h2>
+<p><a href="/files/BIBE_Results.png"><img class="alignleft size-full wp-image-377" src="/files/BIBE_Results.png" alt="" width="600"></a></p>
 <p>Chi-Chen Lee, Po-Tsun Paul Kuo, and Chi-Han Peng<br>
 <a href="https://bibe2022.asia.edu.tw/">IEEE International Conference on BioInformatics and BioEngineering (BIBE)</a>, 2022 (short paper)<br>
-<a href="https://pengchihan.co/wp-content/uploads/2022/11/BIBE2022_paper.pdf">Paper</a>&nbsp;|&nbsp;<a href="https://arxiv.org/abs/2211.05420">Arxiv</a>&nbsp;|&nbsp;<button onclick="function_BIBE2022()">BibTex</button>
+<a href="https://pengchihan.co/papers/BIBE2022_paper.pdf">Paper</a>&nbsp;|&nbsp;<a href="https://arxiv.org/abs/2211.05420">Arxiv</a>&nbsp;|&nbsp;<button onclick="function_BIBE2022()">BibTex</button>
 <div id="BIBE2022" style="display:none;">
 @INPROCEEDINGS {9973557,<br>
 author = {C. Lee and P. Kuo and C. Peng},<br>
@@ -147,7 +147,7 @@ process larger images with better quality compared to CycleGAN. We also compared
 
 <hr>
 
-<h2>Optimizing Placements of 360◦ Panoramic Cameras in Indoor Environments by Integer Programming</h2>
+<h2>[STAG2022] Optimizing Placements of 360◦ Panoramic Cameras in Indoor Environments by Integer Programming</h2>
 <p><a href="https://pengchihan.co/wp-content/uploads/2022/10/STAG2022_teaser.jpg">
 <img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2022/10/STAG2022_teaser.jpg" alt="" width="600"></a></p>
 <p>Syuan-Rong Syu and Chi-Han Peng<br>
@@ -180,7 +180,7 @@ We propose a computational approach to find a minimal set of 360◦ camera place
 
 <hr>
 
-<h2>Floor Plan Exploration Framework Based on Similarity Distances</h2>
+<h2>[STAG2022] Floor Plan Exploration Framework Based on Similarity Distances</h2>
 <p><a href="https://pengchihan.co/wp-content/uploads/2022/10/STAG2022_poster_architecture.jpg"><img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2022/10/STAG2022_poster_architecture.jpg" alt="" width="600"></a></p>
 <p>Chia-Ying Shih and Chi-Han Peng<br><a href="https://www.stag-conference.org/2022/">Smart Tools and Applications in Graphics (STAG)</a> (poster) 2022.<br>
 <a href="https://arxiv.org/abs/2211.07331">Arxiv</a>&nbsp;|&nbsp;<button onclick="function_STAG2022p()">BibTex</button>
@@ -212,7 +212,7 @@ originally calculated by LayoutGMN. Quantitative and qualitative evaluations sho
 
 <hr>
 
-<h2>Reconstructing 3D Indoor Layout from Multiple Panoramic Images (結合深度學習與圖形最佳化方法之多視角室內全景影像三維格局重建)</h2>
+<h2>[CGW2021] Reconstructing 3D Indoor Layout from Multiple Panoramic Images (結合深度學習與圖形最佳化方法之多視角室內全景影像三維格局重建)</h2>
 <p><a href="https://pengchihan.co/wp-content/uploads/2021/08/CGW2021_teaser.png"><img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2021/08/CGW2021_teaser.png" alt="" width="600"></a></p>
 <p>Sio-Keong Si, Jheng-Wei Su, Chi-Han Peng, Kuo-Wei Chen, Felix Chang, Chih-Yuan Yao, and Hung-Kuo Chu <br>
 Computer Graphics Workshop (CGW), 2021 <font color="red"> *Best Paper Award</font><br>
@@ -222,7 +222,7 @@ We propose a novel framework to estimate room layouts from multiple panoramas ta
 
 <hr>
 
-<h2>Manhattan Room Layout Reconstruction from a Single 360∘ Image: A Comparative Study of State-of-the-Art Methods</h2>
+<h2>[IJCV2021] Manhattan Room Layout Reconstruction from a Single 360∘ Image: A Comparative Study of State-of-the-Art Methods</h2>
 <p><a href="https://pengchihan.co/wp-content/uploads/2021/08/IJCV2021_teaser.png"><img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2021/08/IJCV2021_teaser.png" alt="" width="600"></a></p>
 <p>Chuhang Zou, Jheng-Wei Su, Chi-Han Peng, Alex Colburn, Qi Shan, Peter Wonka, Hung-Kuo Chu, and Derek Hoiem<br>
 International Journal of Computer Vision (IJCV), 2021<br>
@@ -262,7 +262,7 @@ and the impact of the design decisions. For a complete evaluation, we also propo
 
 <hr>
 
-<h2>Checkerboard Patterns with Black Rectangles</h2>
+<h2>[SIGGRAPH2019] Checkerboard Patterns with Black Rectangles</h2>
 <p><a href="https://pengchihan.co/wp-content/uploads/2019/08/teaser.png"><img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2019/08/teaser.png" alt="" width="600"></a></p>
 <p>Chi-Han Peng*, Caigui Jiang*, Peter Wonka, Helmut Pottmann<br>
 ACM Transactions on Graphics (Proceedings of ACM SIGGRAPH ASIA 2019)<br>
@@ -300,7 +300,7 @@ Checkerboard patterns with black rectangles can be derived from quad meshes with
 
 <hr>
 
-<h2>DuLa-Net: A Dual-Projection Network for Estimating Room Layouts from a Single RGB Panorama</h2>
+<h2>[CVPR2019] DuLa-Net: A Dual-Projection Network for Estimating Room Layouts from a Single RGB Panorama</h2>
 <p><a href="https://pengchihan.co/wp-content/uploads/2019/03/DulaNet.png"><img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2019/03/DulaNet.png" alt="" width="600"></a></p>
 <p>Shang-Ta Yang, Fu-En Wang, Chi-Han Peng, Peter Wonka, Min Sun, Hung-Kuo Chu<br>Conference on Computer Vision and Pattern Recognition (CVPR), 2019<br>
 <a href="https://arxiv.org/abs/1811.11977">Paper (Arxiv)</a>&nbsp;|&nbsp;<a href="https://github.com/SunDaDenny/DuLa-Net">GitHub</a>&nbsp;|&nbsp;<button onclick="function_CVPR2019()">BibTex</button>
@@ -328,7 +328,7 @@ We present a deep learning framework, called DuLa-Net, to predict Manhattan-worl
 
 <hr>
 
-<h2>Designing Patterns using Triangle-Quad Hybrid Meshes</h2>
+<h2>[SIGGRAPH2018] Designing Patterns using Triangle-Quad Hybrid Meshes</h2>
 <p><a href="https://pengchihan.co/wp-content/uploads/2018/04/Representative-.jpg"><img class="wp-image-87 aligncenter" src="https://pengchihan.co/wp-content/uploads/2018/04/Representative-.jpg" alt="layout" width="600"></a></p>
 <p>Chi-Han Peng, Helmut Pottmann, Peter Wonka<br>ACM Transactions on Graphics (Proceedings of ACM SIGGRAPH 2018)<br>
 <a href="https://pengchihan.co/papers/hybrid/DesigningPatternsUsingTriangleQuadHybridMeshes_main.pdf">Paper (authors' version)</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/hybrid/DesigningPatternsUsingTriangleQuadHybridMeshes_additional_materials.pdf">Additional Materials</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/hybrid/DesigningPatternsUsingTriangleQuadHybridMeshes.mp4">Video</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/hybrid/DesigningPatternsUsingTriangleQuadHybridMeshes_models.zip">Models</a>&nbsp;|&nbsp;<button onclick="function_Sig2018()">BibTex</button>
