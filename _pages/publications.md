@@ -304,7 +304,7 @@ Checkerboard patterns with black rectangles can be derived from quad meshes with
 @inproceedings{Yang:2019:DuLa-Net,<br>
 author    = {Yang, Shang-Ta and Wang, Fu-En and Peng, Chi-Han and Wonka, Peter and Sun, Min and Chu, Hung-Kuo},<br>
 title     = {DuLa-Net: {A} Dual-Projection Network for Estimating Room Layouts From a Single {RGB} Panorama},<br>
-booktitle = {{IEEE} Conference on Computer Vision and Pattern Recognition, {CVPR} 2019},<br>
+booktitle = {IEEE Conference on Computer Vision and Pattern Recognition, {CVPR} 2019},<br>
 pages     = {3363--3372},<br>
 year      = {2019}<br>
 } 
