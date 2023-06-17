@@ -183,7 +183,7 @@ We propose a computational approach to find a minimal set of 360◦ camera place
 <hr>
 
 <h2>Floor Plan Exploration Framework Based on Similarity Distances</h2>
-<p><a href="https://pengchihan.co/wp-content/uploads/2022/10/STAG2022_poster_architecture.jpg"><img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2022/10/STAG2022_poster_architecture.jpg" alt="" width="600"></a></p>
+<p><a href="/files/STAG2022_poster_architecture.jpg"><img class="alignleft size-full wp-image-377" src="/files/STAG2022_poster_architecture.jpg" alt="" width="600"></a></p>
 <p>Chia-Ying Shih and Chi-Han Peng<br><a href="https://www.stag-conference.org/2022/">Smart Tools and Applications in Graphics (STAG)</a> (poster) 2022.<br>
 <a href="https://arxiv.org/abs/2211.07331">Arxiv</a>&nbsp;|&nbsp;<button onclick="function_STAG2022p()">BibTex</button>
 <div id="STAG2022p" style="display:none;">
@@ -215,10 +215,10 @@ originally calculated by LayoutGMN. Quantitative and qualitative evaluations sho
 <hr>
 
 <h2>Reconstructing 3D Indoor Layout from Multiple Panoramic Images (結合深度學習與圖形最佳化方法之多視角室內全景影像三維格局重建)</h2>
-<p><a href="https://pengchihan.co/wp-content/uploads/2021/08/CGW2021_teaser.png"><img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2021/08/CGW2021_teaser.png" alt="" width="600"></a></p>
+<p><a href="/files/CGW2021_teaser.png"><img class="alignleft size-full wp-image-377" src="/files/CGW2021_teaser.png" alt="" width="600"></a></p>
 <p>Sio-Keong Si, Jheng-Wei Su, Chi-Han Peng, Kuo-Wei Chen, Felix Chang, Chih-Yuan Yao, and Hung-Kuo Chu <br>
 Computer Graphics Workshop (CGW), 2021 <font color="red"> *Best Paper Award</font><br>
-<a href="https://pengchihan.co/wp-content/uploads/2021/08/Reconstructing-3D-Indoor-Layout-from-Multiple-Panoramic_Images_CGW2021.pdf">Paper (Author's version)</a></p>
+<a href="https://pengchihan.co/papers/Reconstructing-3D-Indoor-Layout-from-Multiple-Panoramic_Images_CGW2021.pdf">Paper (Author's version)</a></p>
 <p>Abstract:<br>
 We propose a novel framework to estimate room layouts from multiple panoramas taken inside the same room with registration. Our solution consists of the following major components. First, we propose a boxification line prediction network that can predict boxification lines for each panorama in the same room. Second, we propose a graph-cut based binary segmentation that produces room layouts with sharp corners and straight walls. Third, we also annotated one multi-view consistent layout dataset for this new layout prediction framework. Our quantitative results show an improvement over single-view room layout estimation algorithms.</p>
 
