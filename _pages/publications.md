@@ -10,8 +10,8 @@ author_profile: true
 <h2>GPR-Net: Multi-view Layout Estimation via a Geometry-aware Panorama Registration Network</h2>
 <p><a href="https://pengchihan.co/wp-content/uploads/2023/05/GPRNet.png"><img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2023/05/GPRNet.png" alt="" width="600"></a></p>
 <p>Jheng-Wei Su, Chi-Han Peng, Peter Wonka, Hung-Kuo Chu<br>
-IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR) 2023, <a href="https://sites.google.com/view/omnicv2023">Omnidirectional Computer Vision Workshop (Omnicv2023)</a>, to appear<br>
-<a href="https://arxiv.org/abs/2210.11419">Paper (Arxiv)</a>| <button onclick="function_CVPRW2023()">BibTex</button>
+IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR) 2023, <a href="https://sites.google.com/view/omnicv2023">Omnidirectional Computer Vision Workshop (Omnicv2023)</a><br>
+<a href="https://arxiv.org/abs/2210.11419">Paper (Arxiv)</a>&nbsp|&nbsp<button onclick="function_CVPRW2023()">BibTex</button>
 <div id="CVPRW2023" style="display:none;">
 @InProceedings{Su_2023_CVPRW,<br>
     author    = {Jheng-Wei Su, Chi-Han Peng, Peter Wonka, Hung-Kuo Chu},<br>
@@ -42,7 +42,27 @@ Reconstructing 3D layouts from multiple 360∘ panoramas has received increasing
 <p><a href="https://pengchihan.co/wp-content/uploads/2021/11/representative.jpg"><img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2021/11/representative.jpg" alt="" width="600"></a></p>
 <p>Chi-Han Peng, Jiayao Zhang, Chia-Chia Chen, Yun-Wei Lin<br>
 <a href="https://www.art-science.org/nicograph/nicoint2023/#nicoint2023-award">NICOGRAPH International 2023</a>. <font color="red">*Best Short Paper Award</font><br>
-<a href="https://pengchihan.co/wp-content/uploads/2023/05/NICOGRAPH2023_final.pdf">Paper (author's version)</a> | <a href="https://arxiv.org/abs/2111.12018">Paper (previous Arxiv version)<br></a></p>
+<a href="https://pengchihan.co/wp-content/uploads/2023/05/NICOGRAPH2023_final.pdf">Paper (author's version)</a>&nbsp|&nbsp<a href="https://arxiv.org/abs/2111.12018">Paper (previous Arxiv version)<br></a>&nbsp|&nbsp<button onclick="function_NICOGRAPH2023()">BibTex</button>
+<div id="NICOGRAPH2023" style="display:none;">
+@InProceedings{Peng_2023_NICOGRAPH,<br>
+    author    = {Chi-Han Peng, Jiayao Zhang, Chia-Chia Chen, Yun-Wei Lin},<br>
+    title     = {Distortion Reduction for Off-Center Perspective Projection of Panoramas},<br>
+    booktitle = {NICOGRAPH International},<br>
+    month     = {June},<br>
+    year      = {2023},<br>
+}
+</div>
+<script>
+function function_NICOGRAPH2023() {
+  var x = document.getElementById("NICOGRAPH2023");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
+</p>
 <p>Abstract:<br>
 A key assumption of perspective projection is that linear features in 3D shall remain linear after being projected to the 2D screen. 
 This assumption is preserved when we draw a spherical panorama perspectively in arbitrary viewing directions and field-of-views 
@@ -59,8 +79,8 @@ distortion measured quantitatively and qualitatively.
 <h2>High-Resolution Depth Estimation for 360◦ Panoramas through Perspective and Panoramic Depth Images Registration</h2>
 <p><a href="https://pengchihan.co/wp-content/uploads/2022/10/WACV_overview.jpg"><img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2022/10/WACV_overview.jpg" alt="" width="600"></a></p>
 <p>Chi-Han Peng and Jiayao Zhang<br>
-<a href="https://wacv2023.thecvf.com/">IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)</a>, 2023.<br>
-<a href="https://arxiv.org/abs/2210.10414">Paper (Arxiv)</a> | Code (coming soon)| <button onclick="function_WACV2023()">BibTex</button>
+<a href="https://wacv2023.thecvf.com/">IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)</a>, 2023<br>
+<a href="https://arxiv.org/abs/2210.10414">Paper (Arxiv)</a>&nbsp|&nbsp Code (coming soon)&nbsp|&nbsp<button onclick="function_WACV2023()">BibTex</button>
 <div id="WACV2023" style="display:none;">
 @InProceedings{Peng_2023_WACV,<br>
     author    = {Peng, Chi-Han and Zhang, Jiayao},<br>
