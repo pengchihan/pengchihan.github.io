@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Chi-Han Peng"
   avatar           : "profile.jpg"
-  bio              : "Assistant Professor at National Yang Ming Chiao Tung University (NYCU), Taiwan"
-  location         : "Tainan, Taiwan"
+  bio              : "Assistant Professor at <a href="https://en.nycu.edu.tw/">National Yang Ming Chiao Tung University (NYCU)</a>, Taiwan"
+  location         : 
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=jp3YHjcAAAAJ"
