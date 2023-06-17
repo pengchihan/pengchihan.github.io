@@ -11,7 +11,26 @@ author_profile: true
 <p><a href="https://pengchihan.co/wp-content/uploads/2023/05/GPRNet.png"><img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2023/05/GPRNet.png" alt="" width="600"></a></p>
 <p>Jheng-Wei Su, Chi-Han Peng, Peter Wonka, Hung-Kuo Chu<br>
 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR) 2023, <a href="https://sites.google.com/view/omnicv2023">Omnidirectional Computer Vision Workshop (Omnicv2023)</a>, to appear<br>
-<a href="https://arxiv.org/abs/2210.11419">Paper (Arxiv)</a>
+<a href="https://arxiv.org/abs/2210.11419">Paper (Arxiv)</a>| <button onclick="function_CVPRW2023()">BibTex</button>
+<div id="CVPRW2023" style="display:none;">
+@InProceedings{Su_2023_CVPRW,<br>
+    author    = {Jheng-Wei Su, Chi-Han Peng, Peter Wonka, Hung-Kuo Chu},<br>
+    title     = {GPR-Net: Multi-view Layout Estimation via a Geometry-aware Panorama Registration Network},<br>
+    booktitle = {IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR) Workshop},<br>
+    month     = {June},<br>
+    year      = {2023},<br>
+}
+</div>
+<script>
+function function_CVPRW2023() {
+  var x = document.getElementById("CVPRW2023");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
 </p>
 <p>Abstract:<br>
 Reconstructing 3D layouts from multiple 360∘ panoramas has received increasing attention recently as estimating a complete layout of a large-scale and complex room from a single panorama is very difficult. The state-of-the-art method, called PSMNet, introduces the first learning-based framework that jointly estimates the room layout and registration given a pair of panoramas. However, PSMNet relies on an approximate (i.e., "noisy") registration as input. Obtaining this input requires a solution for wide baseline registration which is a challenging problem. In this work, we present a complete multi-view panoramic layout estimation framework that jointly learns panorama registration and layout estimation given a pair of panoramas without relying on a pose prior. The major improvement over PSMNet comes from a novel Geometry-aware Panorama Registration Network or GPR-Net that effectively tackles the wide baseline registration problem by exploiting the layout geometry and computing fine-grained correspondences on the layout boundaries, instead of the global pixel-space. Our architecture consists of two parts. First, given two panoramas, we adopt a vision transformer to learn a set of 1D horizon features sampled on the panorama. These 1D horizon features encode the depths of individual layout boundary samples and the correspondence and covisibility maps between layout boundaries. We then exploit a non-linear registration module to convert these 1D horizon features into a set of corresponding 2D boundary points on the layout. Finally, we estimate the final relative camera pose via RANSAC and obtain the complete layout simply by taking the union of registered layouts. Experimental results indicate that our method achieves state-of-the-art performance in both panorama registration and layout estimation on a large-scale indoor panorama dataset ZInD.
@@ -22,7 +41,7 @@ Reconstructing 3D layouts from multiple 360∘ panoramas has received increasing
 <h2>Distortion Reduction for Off-Center Perspective Projection of Panoramas</h2>
 <p><a href="https://pengchihan.co/wp-content/uploads/2021/11/representative.jpg"><img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2021/11/representative.jpg" alt="" width="600"></a></p>
 <p>Chi-Han Peng, Jiayao Zhang, Chia-Chia Chen, Yun-Wei Lin<br>
-<a href="https://www.art-science.org/nicograph/nicoint2023/#nicoint2023-award">NICOGRAPH International 2023</a>. *Best Short Paper Award<br>
+<a href="https://www.art-science.org/nicograph/nicoint2023/#nicoint2023-award">NICOGRAPH International 2023</a>. <font color="red">*Best Short Paper Award</font><br>
 <a href="https://pengchihan.co/wp-content/uploads/2023/05/NICOGRAPH2023_final.pdf">Paper (author's version)</a> | <a href="https://arxiv.org/abs/2111.12018">Paper (previous Arxiv version)<br></a></p>
 <p>Abstract:<br>
 A key assumption of perspective projection is that linear features in 3D shall remain linear after being projected to the 2D screen. 
@@ -40,7 +59,8 @@ distortion measured quantitatively and qualitatively.
 <h2>High-Resolution Depth Estimation for 360◦ Panoramas through Perspective and Panoramic Depth Images Registration</h2>
 <p><a href="https://pengchihan.co/wp-content/uploads/2022/10/WACV_overview.jpg"><img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2022/10/WACV_overview.jpg" alt="" width="600"></a></p>
 <p>Chi-Han Peng and Jiayao Zhang<br>
-<a href="https://wacv2023.thecvf.com/">IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)</a>, 2023.</br><a href="https://arxiv.org/abs/2210.10414">Paper (Arxiv)</a>|Code (coming soon)|<button onclick="function_WACV2023()">BibTex</button>
+<a href="https://wacv2023.thecvf.com/">IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)</a>, 2023.<br>
+<a href="https://arxiv.org/abs/2210.10414">Paper (Arxiv)</a> | Code (coming soon)| <button onclick="function_WACV2023()">BibTex</button>
 <div id="WACV2023" style="display:none;">
 @InProceedings{Peng_2023_WACV,<br>
     author    = {Peng, Chi-Han and Zhang, Jiayao},<br>
