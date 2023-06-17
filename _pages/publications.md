@@ -43,7 +43,7 @@ Reconstructing 3D layouts from multiple 360∘ panoramas has received increasing
 <p><a href="/files/nicograph.jpg"><img class="alignleft size-full wp-image-377" src="/files/nicograph.jpg" alt="" width="600"></a></p>
 <p>Chi-Han Peng, Jiayao Zhang, Chia-Chia Chen, Yun-Wei Lin<br>
 <a href="https://www.art-science.org/nicograph/nicoint2023/#nicoint2023-award">NICOGRAPH International 2023</a>. <font color="red">*Best Short Paper Award</font><br>
-<a href="https://pengchihan.co/wp-content/uploads/2023/05/NICOGRAPH2023_final.pdf">Paper (author's version)</a>&nbsp;|&nbsp;<a href="https://arxiv.org/abs/2111.12018">Paper (previous Arxiv version)</a>&nbsp;|&nbsp;<button onclick="function_NICOGRAPH2023()">BibTex</button>
+<a href="https://pengchihan.co/papers/NICOGRAPH2023_final.pdf">Paper (author's version)</a>&nbsp;|&nbsp;<a href="https://arxiv.org/abs/2111.12018">Paper (previous Arxiv version)</a>&nbsp;|&nbsp;<button onclick="function_NICOGRAPH2023()">BibTex</button>
 <div id="NICOGRAPH2023" style="display:none;">
 @InProceedings{Peng_2023_NICOGRAPH,<br>
     author    = {Chi-Han Peng, Jiayao Zhang, Chia-Chia Chen, Yun-Wei Lin},<br>
@@ -81,7 +81,11 @@ distortion measured quantitatively and qualitatively.
 <p><a href="https://pengchihan.co/wp-content/uploads/2022/10/WACV_overview.jpg"><img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2022/10/WACV_overview.jpg" alt="" width="600"></a></p>
 <p>Chi-Han Peng and Jiayao Zhang<br>
 <a href="https://wacv2023.thecvf.com/">IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)</a>, 2023<br>
-<a href="https://arxiv.org/abs/2210.10414">Paper (Arxiv)</a>&nbsp;|&nbsp;Code (coming soon)&nbsp;|&nbsp;<button onclick="function_WACV2023()">BibTex</button>
+<a href="https://pengchihan.co/papers/Peng_High-Resolution_Depth_Estimation_for_360deg_Panoramas_Through_Perspective_and_Panoramic_WACV_2023_paper.pdf">Paper</a>&nbsp;|&nbsp;
+<a href="https://pengchihan.co/papers/Peng_High-Resolution_Depth_Estimation_WACV_2023_supplemental.pdf">Supplemental</a>&nbsp;|&nbsp;
+<a href="https://pengchihan.co/papers/1428-wacv-post.pdf">Poster</a>&nbsp;|&nbsp;
+<a href="https://pengchihan.co/papers/1428-wacv.mp4">Video</a>&nbsp;|&nbsp;
+Code (coming soon)&nbsp;|&nbsp;<button onclick="function_WACV2023()">BibTex</button>
 <div id="WACV2023" style="display:none;">
 @InProceedings{Peng_2023_WACV,<br>
     author    = {Peng, Chi-Han and Zhang, Jiayao},<br>
