@@ -20,7 +20,7 @@ author_profile: true
 <hr>
 
 <h2>King Abdullah University of Science and Technology (KAUST), Saudi Arabia</h2>
-<p><b>Research Scientist</b>. Visual Computing Center
+<p><b>Research Scientist</b>. Visual Computing Center.<br>
 2017-2019</p>
 
 <hr>

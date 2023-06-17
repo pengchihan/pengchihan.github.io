@@ -8,7 +8,7 @@ author_profile: true
 <hr>
 
 <h2>GPR-Net: Multi-view Layout Estimation via a Geometry-aware Panorama Registration Network</h2>
-<p><a href="https://pengchihan.co/wp-content/uploads/2023/05/GPRNet.png"><img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2023/05/GPRNet.png" alt="" width="600"></a></p>
+<p><a href="/files/GPRNet.png"><img class="alignleft size-full wp-image-377" src="/files/GPRNet.png" alt="" width="600"></a></p>
 <p>Jheng-Wei Su, Chi-Han Peng, Peter Wonka, Hung-Kuo Chu<br>
 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR) 2023,<br>
 <a href="https://sites.google.com/view/omnicv2023">Omnidirectional Computer Vision Workshop (Omnicv2023)</a><br>
