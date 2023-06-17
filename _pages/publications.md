@@ -482,7 +482,10 @@ We present a framework for exploring topologically unique quadrangulations of an
 <h2>Connectivity Editing for Quad-Dominant Meshes</h2>
 <p><a href="/files/tower.png"><br><img class="wp-image-48 alignnone" src="/files/tower.png" alt="connectivity_editing_for_quad_dominant_meshes" width="600" height="300"></a></p>
 <p>Chi-Han Peng and Peter Wonka<br>Eurographics Symposium on Geometry Processing (SGP) 2013<br>
-<a href="https://dl.dropboxusercontent.com/u/4064057/Connectivity%20Editing%20for%20Quad%20Dominant%20Meshes%20SGP2013.pdf">Paper</a>&nbsp;|&nbsp;<a href="https://dl.dropboxusercontent.com/u/4064057/Connectivity%20Editing%20for%20Quad%20Dominant%20Meshes%20SGP2013%20additional%20materials.pdf">Additional Materials</a>&nbsp;|&nbsp;<a href="http://www.youtube.com/watch?v=HRCELTuOGXw&amp;feature=youtu.be">Video (youtube)</a>&nbsp;|&nbsp;<a href="https://dl.dropboxusercontent.com/u/4064057/qdedit%20SGP%20slides.pptx">Slides</a>&nbsp;|&nbsp;<button onclick="function_SGP2013()">BibTex</button>
+<a href="https://pengchihan.co/papers/Connectivity%20Editing%20for%20Quad%20Dominant%20Meshes%20SGP2013.pdf">Paper</a>&nbsp;|&nbsp;
+<a href="https://pengchihan.co/papers/Connectivity%20Editing%20for%20Quad%20Dominant%20Meshes%20SGP2013%20additional%20materials.pdf">Additional Materials</a>&nbsp;|&nbsp;
+<a href="http://www.youtube.com/watch?v=HRCELTuOGXw&amp;feature=youtu.be">Video (youtube)</a>&nbsp;|&nbsp;
+<a href="https://pengchihan.co/papers/qdedit%20SGP%20slides.pptx">Slides</a>&nbsp;|&nbsp;<button onclick="function_SGP2013()">BibTex</button>
 <div id="SGP2013" style="display:none;">
 @inproceedings{10.1111/cgf.12171,<br>
 author = {Peng, Chi-Han and Wonka, Peter},<br>
