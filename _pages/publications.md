@@ -360,7 +360,7 @@ We present a framework to generate mesh patterns that consist of a hybrid of bot
 <hr>
 
 <h2>Computational Network Design from Functional Specifications</h2>
-<p><a href="https://pengchihan.co/wp-content/uploads/2018/04/ComputationalNetworkDesignFromFunctionalSpecifications.png"><img class="alignnone  wp-image-87" src="https://pengchihan.co/wp-content/uploads/2018/04/ComputationalNetworkDesignFromFunctionalSpecifications.png" alt="layout" width="1000"></a></p>
+<p><a href="https://pengchihan.co/wp-content/uploads/2018/04/ComputationalNetworkDesignFromFunctionalSpecifications.png"><img class="alignnone  wp-image-87" src="https://pengchihan.co/wp-content/uploads/2018/04/ComputationalNetworkDesignFromFunctionalSpecifications.png" alt="layout" width="600"></a></p>
 <p>Chi-Han Peng, Yong-Liang Yang, Fan Bao, Daniel Fink, Dong-Ming Yan, Peter Wonka, Niloy J. Mitra<br>ACM Transactions on Graphics (Proceedings of ACM SIGGRAPH 2016)<br>
 <a href="https://pengchihan.co/wp-content/uploads/2018/04/functional_layout.pdf">Paper (authors' version)</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/wp-content/uploads/2018/04/functional_layout.pptx">Slides</a>&nbsp;|&nbsp;<button onclick="function_Sig2016()">BibTex</button>
 <div id="Sig2016" style="display:none;">
@@ -396,7 +396,7 @@ Connectivity and layout of underlying networks largely determine agent behavior 
 <hr>
 
 <h2>Computing Layouts with Deformable Templates</h2>
-<p><a href="https://pengchihan.co/wp-content/uploads/2014/04/pentagon.png"><img class="alignnone  wp-image-87" src="https://pengchihan.co/wp-content/uploads/2014/04/pentagon_small.png" alt="layout" width="1000"></a></p>
+<p><a href="https://pengchihan.co/wp-content/uploads/2014/04/pentagon.png"><img class="alignnone  wp-image-87" src="https://pengchihan.co/wp-content/uploads/2014/04/pentagon_small.png" alt="layout" width="600"></a></p>
 <p>Chi-Han Peng, Yong-Liang Yang, and Peter Wonka<br>ACM Transactions on Graphics (Proceedings of ACM SIGGRAPH 2014)<br>
 <a href="https://pengchihan.co/papers/tiling/">Project Page</a> | <a href="https://pengchihan.co/papers/tiling/Computing_Layouts_with_Deformable_Templates.pdf">Paper (authors' version)</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/tiling/Computing_Layouts_with_Deformable_Templates_additional_materials.pdf">Additional Materials</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/tiling/Computing_Layouts_with_Deformable_Templates_Siggraph2014.pptx">Talk Slides</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/tiling/Computing_Layouts_with_Deformable_Templates_fastforward.pptx">Fast-Forward Slides</a>&nbsp;|&nbsp;<button onclick="function_Sig2014()">BibTex</button>
 <div id="Sig2014" style="display:none;">
@@ -433,7 +433,7 @@ In this paper we tackle the problem of tiling a domain with a set of deformable 
 <hr>
 
 <h2>Exploring Quadrangulations</h2>
-<p><a href="https://pengchihan.co/wp-content/uploads/2014/03/exploring_quadrangulations_2.png"><img class="alignnone  wp-image-87" src="https://pengchihan.co/wp-content/uploads/2014/03/exploring_quadrangulations_2.jpg" alt="exploring_quadrangulations_2" width="1000"></a></p>
+<p><a href="https://pengchihan.co/wp-content/uploads/2014/03/exploring_quadrangulations_2.png"><img class="alignnone  wp-image-87" src="https://pengchihan.co/wp-content/uploads/2014/03/exploring_quadrangulations_2.jpg" alt="exploring_quadrangulations_2" width="600"></a></p>
 <p>Chi-Han Peng, Michael Barton, Caigui Jiang, and Peter Wonka<br>
 ACM Transactions on Graphics (to be presented at SIGGRAPH 2014)<br>
 <a href="https://pengchihan.co/papers/explore/">Project Page</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/explore/ExploringQuadrangulations%20main_paper.pdf">Paper (authors' version)</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/explore/ExploringQuadrangulations%20additional_materials.pdf">Additional Materials</a>&nbsp;|&nbsp;<a href="http://www.youtube.com/watch?v=9dvSntCIE60&amp;feature=youtu.be">Video (youtube)</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/explore/ExploreQuadrangulations%20meshes.zip">Models</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/explore/Exploring_Quadrangulations_Siggraph2014.pptx">Talk Slides</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/explore/Exploring_Quadrangulations_fastforward.pptx">Fast-Forward Slides</a>&nbsp;|&nbsp;<button onclick="function_Sig2014a()">BibTex</button>
@@ -471,9 +471,9 @@ We present a framework for exploring topologically unique quadrangulations of an
 <hr>
 
 <h2>Connectivity Editing for Quad-Dominant Meshes</h2>
-<p><a href="https://pengchihan.co/wp-content/uploads/2014/03/tower.png"><br><img class="wp-image-48 alignnone" src="https://pengchihan.co/wp-content/uploads/2014/01/connectivity_editing_for_quad_dominant_meshes.png" alt="connectivity_editing_for_quad_dominant_meshes" width="1000" height="300"></a></p>
+<p><a href="https://pengchihan.co/wp-content/uploads/2014/03/tower.png"><br><img class="wp-image-48 alignnone" src="https://pengchihan.co/wp-content/uploads/2014/01/connectivity_editing_for_quad_dominant_meshes.png" alt="connectivity_editing_for_quad_dominant_meshes" width="600" height="300"></a></p>
 <p>Chi-Han Peng and Peter Wonka<br>Eurographics Symposium on Geometry Processing (SGP) 2013<br>
-<a href="https://dl.dropboxusercontent.com/u/4064057/Connectivity%20Editing%20for%20Quad%20Dominant%20Meshes%20SGP2013.pdf">Paper</a>&nbsp;|&nbsp;<a href="https://dl.dropboxusercontent.com/u/4064057/Connectivity%20Editing%20for%20Quad%20Dominant%20Meshes%20SGP2013%20additional%20materials.pdf">Additional Materials</a>&nbsp;|&nbsp;<a href="http://www.youtube.com/watch?v=HRCELTuOGXw&amp;feature=youtu.be">Video (youtube)</a>&nbsp;|&nbsp;<a href="https://dl.dropboxusercontent.com/u/4064057/qdedit%20SGP%20slides.pptx">Slides</a>|<button onclick="function_SGP2013()">BibTex</button>
+<a href="https://dl.dropboxusercontent.com/u/4064057/Connectivity%20Editing%20for%20Quad%20Dominant%20Meshes%20SGP2013.pdf">Paper</a>&nbsp;|&nbsp;<a href="https://dl.dropboxusercontent.com/u/4064057/Connectivity%20Editing%20for%20Quad%20Dominant%20Meshes%20SGP2013%20additional%20materials.pdf">Additional Materials</a>&nbsp;|&nbsp;<a href="http://www.youtube.com/watch?v=HRCELTuOGXw&amp;feature=youtu.be">Video (youtube)</a>&nbsp;|&nbsp;<a href="https://dl.dropboxusercontent.com/u/4064057/qdedit%20SGP%20slides.pptx">Slides</a>&nbsp;|&nbsp;<button onclick="function_SGP2013()">BibTex</button>
 <div id="SGP2013" style="display:none;">
 @inproceedings{10.1111/cgf.12171,<br>
 author = {Peng, Chi-Han and Wonka, Peter},<br>
@@ -502,8 +502,8 @@ We propose a connectivity editing framework for quad-dominant meshes. In our fra
 <hr>
 
 <h2>Connectivity Editing for Quadrilateral Meshes</h2>
-<p><a href="https://pengchihan.co/wp-content/uploads/2014/03/teaser.png"><img class="wp-image-50 alignnone" src="https://pengchihan.co/wp-content/uploads/2014/01/connectivity_editing_for_quadrilateral_meshes.png" alt="connectivity_editing_for_quadrilateral_meshes" width="1000" height="218"></a></p>
-<p>Chi-Han Peng, Eugene Zhang, Yoshihiro Kobayashi, and Peter Wonka<br>ACM Transactions on Graphics (Proceedings of ACM SIGGRAPH ASIA 2011)<br><a href="https://pengchihan.co/papers/connectivity/">Project Page</a>&nbsp;|&nbsp;<a href="http://www.public.asu.edu/~pchihan/connectivity/ConnectivityEditingForQuadrilateralMeshes.pdf">Paper</a>&nbsp;|&nbsp;<a href="http://www.public.asu.edu/~pchihan/connectivity/ConnectivityEditingForQuadrilateralMeshes_additional_material.pdf">Additional Materials</a>&nbsp;|&nbsp;<a href="http://www.youtube.com/watch?v=7h4fcjdqA8Q">Video (youtube)</a>&nbsp;|&nbsp;<a href="https://dl.dropboxusercontent.com/u/4064057/SiggraphAsia2011_Presentation.pptx">Slides</a>|<button onclick="function_Sig2011()">BibTex</button>
+<p><a href="https://pengchihan.co/wp-content/uploads/2014/03/teaser.png"><img class="wp-image-50 alignnone" src="https://pengchihan.co/wp-content/uploads/2014/01/connectivity_editing_for_quadrilateral_meshes.png" alt="connectivity_editing_for_quadrilateral_meshes" width="600" height="218"></a></p>
+<p>Chi-Han Peng, Eugene Zhang, Yoshihiro Kobayashi, and Peter Wonka<br>ACM Transactions on Graphics (Proceedings of ACM SIGGRAPH ASIA 2011)<br><a href="https://pengchihan.co/papers/connectivity/">Project Page</a>&nbsp;|&nbsp;<a href="http://www.public.asu.edu/~pchihan/connectivity/ConnectivityEditingForQuadrilateralMeshes.pdf">Paper</a>&nbsp;|&nbsp;<a href="http://www.public.asu.edu/~pchihan/connectivity/ConnectivityEditingForQuadrilateralMeshes_additional_material.pdf">Additional Materials</a>&nbsp;|&nbsp;<a href="http://www.youtube.com/watch?v=7h4fcjdqA8Q">Video (youtube)</a>&nbsp;|&nbsp;<a href="https://dl.dropboxusercontent.com/u/4064057/SiggraphAsia2011_Presentation.pptx">Slides</a>&nbsp;|&nbsp;<button onclick="function_Sig2011()">BibTex</button>
 <div id="Sig2011" style="display:none;">
 @article{10.1145/2070781.2024175,<br>
 author = {Peng, Chi-Han and Zhang, Eugene and Kobayashi, Yoshihiro and Wonka, Peter},<br>
@@ -538,7 +538,7 @@ We propose new connectivity editing operations for quadrilateral meshes with the
 <hr>
 
 <h2>User-Assisted Mesh Simplification</h2>
-<p><img class="wp-image-63 alignnone" src="https://pengchihan.co/wp-content/uploads/2014/01/userassistedmeshsimplification1.png" alt="userassistedmeshsimplification" width="1000" height="246"></p>
+<p><img class="wp-image-63 alignnone" src="https://pengchihan.co/wp-content/uploads/2014/01/userassistedmeshsimplification1.png" alt="userassistedmeshsimplification" width="600" height="246"></p>
 <p>Tan-Chi Ho, Yi-Chun Lin, Jung-Hong Chuang, Chi-Han Peng, Yu-Jung Cheng<br>
 VRCIA '06 Proceedings of the 2006 ACM international conference on Virtual reality continuum and its applications<br>
 <a href="https://dl.dropboxusercontent.com/u/4064057/User%20Assisted%20Mesh%20Simplification.pdf">Paper</a>&nbsp;|&nbsp;<button onclick="function_VRCIA()">BibTex</button>
