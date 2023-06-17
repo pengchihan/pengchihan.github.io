@@ -431,3 +431,146 @@ function function_Sig2014() {
 In this paper we tackle the problem of tiling a domain with a set of deformable templates. A valid solution to this problem completely covers the domain with templates such that the templates do not overlap. We generalize existing specialized solutions and formulate a general layout problem by modeling important constraints and admissible template deformations. Our main idea for the solution is to break the layout algorithm into two steps: a discrete step to layout the approximate template positions and a continuous step to refine the template shapes. Our approach is suitable for a large class of applications, including floorplanning, urban layouts, and arts and design.</p>
 
 <hr>
+
+<h2>Exploring Quadrangulations</h2>
+<p><a href="https://pengchihan.co/wp-content/uploads/2014/03/exploring_quadrangulations_2.png"><img class="alignnone  wp-image-87" src="https://pengchihan.co/wp-content/uploads/2014/03/exploring_quadrangulations_2.jpg" alt="exploring_quadrangulations_2" width="1000"></a></p>
+<p>Chi-Han Peng, Michael Barton, Caigui Jiang, and Peter Wonka<br>
+ACM Transactions on Graphics (to be presented at SIGGRAPH 2014)<br>
+<a href="https://pengchihan.co/papers/explore/">Project Page</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/explore/ExploringQuadrangulations%20main_paper.pdf">Paper (authors' version)</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/explore/ExploringQuadrangulations%20additional_materials.pdf">Additional Materials</a>&nbsp;|&nbsp;<a href="http://www.youtube.com/watch?v=9dvSntCIE60&amp;feature=youtu.be">Video (youtube)</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/explore/ExploreQuadrangulations%20meshes.zip">Models</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/explore/Exploring_Quadrangulations_Siggraph2014.pptx">Talk Slides</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/explore/Exploring_Quadrangulations_fastforward.pptx">Fast-Forward Slides</a>&nbsp;|&nbsp;<button onclick="function_Sig2014a()">BibTex</button>
+<div id="Sig2014a" style="display:none;">
+@article{10.1145/2541533,<br>
+author = {Peng, Chi-Han and Barton, Michael and Jiang, Caigui and Wonka, Peter},<br>
+title = {Exploring Quadrangulations},<br>
+year = {2014},<br>
+issue_date = {January 2014},<br>
+publisher = {Association for Computing Machinery},<br>
+address = {New York, NY, USA},<br>
+volume = {33},<br>
+number = {1},<br>
+issn = {0730-0301},<br>
+doi = {10.1145/2541533},<br>
+journal = {ACM Trans. Graph.},<br>
+month = {feb},<br>
+articleno = {12},<br>
+numpages = {13},<br>
+}
+</div>
+<script>
+function function_Sig2014a() {
+  var x = document.getElementById("Sig2014a");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script></p>
+<p>Abstract:<br>
+We present a framework for exploring topologically unique quadrangulations of an input shape. First, the input shape is segmented into surface patches. Second, different topologies are enumerated and explored in each patch. This is realized by an efficient subdivision-based quadrangulation algorithm that can exhaustively enumerate all mesh topologies within a patch. To help users navigate the potentially huge collection of variations, we propose tools to preview and arrange the results. Furthermore, the requirement that all patches need to be jointly quadrangulatable is formulated as a linear integer program. Finally, we apply the framework to shape-space exploration, remeshing, and design to underline the importance of topology exploration.</p>
+
+<hr>
+
+<h2>Connectivity Editing for Quad-Dominant Meshes</h2>
+<p><a href="https://pengchihan.co/wp-content/uploads/2014/03/tower.png"><br><img class="wp-image-48 alignnone" src="https://pengchihan.co/wp-content/uploads/2014/01/connectivity_editing_for_quad_dominant_meshes.png" alt="connectivity_editing_for_quad_dominant_meshes" width="1000" height="300"></a></p>
+<p>Chi-Han Peng and Peter Wonka<br>Eurographics Symposium on Geometry Processing (SGP) 2013<br>
+<a href="https://dl.dropboxusercontent.com/u/4064057/Connectivity%20Editing%20for%20Quad%20Dominant%20Meshes%20SGP2013.pdf">Paper</a>&nbsp;|&nbsp;<a href="https://dl.dropboxusercontent.com/u/4064057/Connectivity%20Editing%20for%20Quad%20Dominant%20Meshes%20SGP2013%20additional%20materials.pdf">Additional Materials</a>&nbsp;|&nbsp;<a href="http://www.youtube.com/watch?v=HRCELTuOGXw&amp;feature=youtu.be">Video (youtube)</a>&nbsp;|&nbsp;<a href="https://dl.dropboxusercontent.com/u/4064057/qdedit%20SGP%20slides.pptx">Slides</a>|<button onclick="function_SGP2013()">BibTex</button>
+<div id="SGP2013" style="display:none;">
+@inproceedings{10.1111/cgf.12171,<br>
+author = {Peng, Chi-Han and Wonka, Peter},<br>
+title = {Connectivity Editing for Quad-Dominant Meshes},<br>
+year = {2013},<br>
+publisher = {Eurographics Association},<br>
+doi = {10.1111/cgf.12171},<br>
+booktitle = {Proceedings of the Eleventh Eurographics/ACMSIGGRAPH Symposium on Geometry Processing},<br>
+pages = {43–52},<br>
+numpages = {10},<br>
+}
+</div>
+<script>
+function function_SGP2013() {
+  var x = document.getElementById("SGP2013");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script></p>
+<p>Abstract:<br>
+We propose a connectivity editing framework for quad-dominant meshes. In our framework the user can edit the mesh connectivity to control the location, type, and number of irregular vertices (with more or less than four neighbors) and irregular faces (non-quads). We provide a theoretical analysis of the problem, discuss what edits are possible and impossible, and describe how to implement an editing framework that realizes all possible editing operations. In the results we show example edits and illustrate advantages and disadvantages of different strategies for quad-dominant mesh design.</p>
+
+<hr>
+
+<h2>Connectivity Editing for Quadrilateral Meshes</h2>
+<p><a href="https://pengchihan.co/wp-content/uploads/2014/03/teaser.png"><img class="wp-image-50 alignnone" src="https://pengchihan.co/wp-content/uploads/2014/01/connectivity_editing_for_quadrilateral_meshes.png" alt="connectivity_editing_for_quadrilateral_meshes" width="1000" height="218"></a></p>
+<p>Chi-Han Peng, Eugene Zhang, Yoshihiro Kobayashi, and Peter Wonka<br>ACM Transactions on Graphics (Proceedings of ACM SIGGRAPH ASIA 2011)<br><a href="https://pengchihan.co/papers/connectivity/">Project Page</a>&nbsp;|&nbsp;<a href="http://www.public.asu.edu/~pchihan/connectivity/ConnectivityEditingForQuadrilateralMeshes.pdf">Paper</a>&nbsp;|&nbsp;<a href="http://www.public.asu.edu/~pchihan/connectivity/ConnectivityEditingForQuadrilateralMeshes_additional_material.pdf">Additional Materials</a>&nbsp;|&nbsp;<a href="http://www.youtube.com/watch?v=7h4fcjdqA8Q">Video (youtube)</a>&nbsp;|&nbsp;<a href="https://dl.dropboxusercontent.com/u/4064057/SiggraphAsia2011_Presentation.pptx">Slides</a>|<button onclick="function_Sig2011()">BibTex</button>
+<div id="Sig2011" style="display:none;">
+@article{10.1145/2070781.2024175,<br>
+author = {Peng, Chi-Han and Zhang, Eugene and Kobayashi, Yoshihiro and Wonka, Peter},<br>
+title = {Connectivity Editing for Quadrilateral Meshes},<br>
+year = {2011},<br>
+issue_date = {December 2011},<br>
+publisher = {Association for Computing Machinery},<br>
+address = {New York, NY, USA},<br>
+volume = {30},<br>
+number = {6},<br>
+issn = {0730-0301},<br>
+doi = {10.1145/2070781.2024175},<br>
+journal = {ACM Trans. Graph.},<br>
+month = {dec},<br>
+pages = {1–12},<br>
+numpages = {12},<br>
+}
+</div>
+<script>
+function function_Sig2011() {
+  var x = document.getElementById("Sig2011");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script></p>
+<p>Abstract:<br>
+We propose new connectivity editing operations for quadrilateral meshes with the unique ability to explicitly control the location, orientation, type, and number of the irregular vertices (valence not equal to four) in the mesh while preserving sharp edges. We provide theoretical analysis on what editing operations are possible and impossible and introduce three fundamental operations to move and re-orient a pair of irregular vertices. We argue that our editing operations are fundamental, because they only change the quad mesh in the smallest possible region and involve the fewest irregular vertices (i.e., two). The irregular vertex movement operations are supplemented by operations for the splitting, merging, canceling, and aligning of irregular vertices. We explain how the proposed highlevel operations are realized through graph-level editing operations such as quad collapses, edge flips, and edge splits. The utility of these mesh editing operations are demonstrated by improving the connectivity of quad meshes generated from state-of-art quadrangulation techniques.</p>
+
+<hr>
+
+<h2>User-Assisted Mesh Simplification</h2>
+<p><img class="wp-image-63 alignnone" src="https://pengchihan.co/wp-content/uploads/2014/01/userassistedmeshsimplification1.png" alt="userassistedmeshsimplification" width="1000" height="246"></p>
+<p>Tan-Chi Ho, Yi-Chun Lin, Jung-Hong Chuang, Chi-Han Peng, Yu-Jung Cheng<br>
+VRCIA '06 Proceedings of the 2006 ACM international conference on Virtual reality continuum and its applications<br>
+<a href="https://dl.dropboxusercontent.com/u/4064057/User%20Assisted%20Mesh%20Simplification.pdf">Paper</a>&nbsp;|&nbsp;<button onclick="function_VRCIA()">BibTex</button>
+<div id="VRCIA" style="display:none;">
+@inproceedings{10.1145/1128923.1128934,<br>
+author = {Ho, Tan-Chi and Lin, Yi-Chun and Chuang, Jung-Hong and Peng, Chi-Han and Cheng, Yu-Jung},<br>
+title = {User-Assisted Mesh Simplification},<br>
+year = {2006},<br>
+isbn = {1595933247},<br>
+publisher = {Association for Computing Machinery},<br>
+doi = {10.1145/1128923.1128934},<br>
+booktitle = {Proceedings of the 2006 ACM International Conference on Virtual Reality Continuum and Its Applications},<br>
+pages = {59–66},<br>
+numpages = {8},<br>
+}
+</div>
+<script>
+function function_VRCIA() {
+  var x = document.getElementById("VRCIA");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
+<br>
+Abstract:<br>
+During the last decade, many simplification methods have been proposed to generate multi-resolution meshes for real-time applications. Practitioners have found that these methods alone usually fail to produce satisfactory result when models of very low polygon count are desired. This is due to the fact that the existing methods take no semantic or functional metric into account, and moreover, each error metric has its own strength and weakness. In this paper, we propose a user-assisted mesh simplification framework that allows users to improve the quality of simplified meshes derived by any error metric. The framework consists of two stages. The first stage employs a weighting scheme that allows users to refine a unsatisfactory region to achieve a user-specified resolution. The second stage is a local refinement scheme aiming to provide a user-guided fine-tune to recover local sharp features. The proposed weighting scheme differs from the previous approaches in that the weights are used to directly reorder the edge collapsing sequence rather than weighting the collapsing cost. Such a direct reordering mechanism ensures a predictable increase of resolution in the selected region, and is both error-metric and resolution independent.</p>
+
+<hr>
+
+<h2>Posters</h2>
+<p><b>Connectivity Control for Quad-Dominant Meshes with Applications in Urban Design</b><br>Chi-Han Peng<br>Advances in Architectural Geometry (AAG) 2014<br><a href="https://dl.dropboxusercontent.com/u/4064057/AAG2014_poster_ChiHanPeng.pdf">Poster</a></p>
+<p><b>Feature Detection in Aerial Images</b><br>Cheng Pan, Yifan Zhang, and Chi-Han Peng (Advisers: John Femiani, Anshuman Razdan, and Peter Wonka)<br>SIAM Data Mining Conference (SDM) 2011 Doctoral Forum<br><a href="https://dl.dropboxusercontent.com/u/4064057/FeatureDetectionInAerialImagesPoster.pdf">Poster</a></p>
