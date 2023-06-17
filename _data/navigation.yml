@@ -13,7 +13,10 @@ main:
     url: /teaching/   
 
   - title: "Work Experiences"
-    url: /work/       
+    url: /work/
+
+  - title: "Patents"
+    url: /patents/       
     
 #  - title: "Portfolio"
 #    url: /portfolio/
