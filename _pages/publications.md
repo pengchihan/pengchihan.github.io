@@ -10,8 +10,9 @@ author_profile: true
 <h2>GPR-Net: Multi-view Layout Estimation via a Geometry-aware Panorama Registration Network</h2>
 <p><a href="https://pengchihan.co/wp-content/uploads/2023/05/GPRNet.png"><img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2023/05/GPRNet.png" alt="" width="600"></a></p>
 <p>Jheng-Wei Su, Chi-Han Peng, Peter Wonka, Hung-Kuo Chu<br>
-IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR) 2023, <a href="https://sites.google.com/view/omnicv2023">Omnidirectional Computer Vision Workshop (Omnicv2023)</a><br>
-<a href="https://arxiv.org/abs/2210.11419">Paper (Arxiv)</a>&#20;|&#20;<button onclick="function_CVPRW2023()">BibTex</button>
+IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR) 2023,<br>
+<a href="https://sites.google.com/view/omnicv2023">Omnidirectional Computer Vision Workshop (Omnicv2023)</a><br>
+<a href="https://arxiv.org/abs/2210.11419">Paper (Arxiv)</a>&nbsp;|&nbsp;<button onclick="function_CVPRW2023()">BibTex</button>
 <div id="CVPRW2023" style="display:none;">
 @InProceedings{Su_2023_CVPRW,<br>
     author    = {Jheng-Wei Su, Chi-Han Peng, Peter Wonka, Hung-Kuo Chu},<br>
@@ -42,7 +43,7 @@ Reconstructing 3D layouts from multiple 360∘ panoramas has received increasing
 <p><a href="https://pengchihan.co/wp-content/uploads/2021/11/representative.jpg"><img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2021/11/representative.jpg" alt="" width="600"></a></p>
 <p>Chi-Han Peng, Jiayao Zhang, Chia-Chia Chen, Yun-Wei Lin<br>
 <a href="https://www.art-science.org/nicograph/nicoint2023/#nicoint2023-award">NICOGRAPH International 2023</a>. <font color="red">*Best Short Paper Award</font><br>
-<a href="https://pengchihan.co/wp-content/uploads/2023/05/NICOGRAPH2023_final.pdf">Paper (author's version)</a>&#20;|&#20;<a href="https://arxiv.org/abs/2111.12018">Paper (previous Arxiv version)<br></a>&#20;|&#20;<button onclick="function_NICOGRAPH2023()">BibTex</button>
+<a href="https://pengchihan.co/wp-content/uploads/2023/05/NICOGRAPH2023_final.pdf">Paper (author's version)</a>&nbsp;|&nbsp;<a href="https://arxiv.org/abs/2111.12018">Paper (previous Arxiv version)</a>&nbsp;|&nbsp;<button onclick="function_NICOGRAPH2023()">BibTex</button>
 <div id="NICOGRAPH2023" style="display:none;">
 @InProceedings{Peng_2023_NICOGRAPH,<br>
     author    = {Chi-Han Peng, Jiayao Zhang, Chia-Chia Chen, Yun-Wei Lin},<br>
@@ -80,7 +81,7 @@ distortion measured quantitatively and qualitatively.
 <p><a href="https://pengchihan.co/wp-content/uploads/2022/10/WACV_overview.jpg"><img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2022/10/WACV_overview.jpg" alt="" width="600"></a></p>
 <p>Chi-Han Peng and Jiayao Zhang<br>
 <a href="https://wacv2023.thecvf.com/">IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)</a>, 2023<br>
-<a href="https://arxiv.org/abs/2210.10414">Paper (Arxiv)</a>&#20;|&#20;Code (coming soon)&#20;|&#20;<button onclick="function_WACV2023()">BibTex</button>
+<a href="https://arxiv.org/abs/2210.10414">Paper (Arxiv)</a>&nbsp;|&nbsp;Code (coming soon)&nbsp;|&nbsp;<button onclick="function_WACV2023()">BibTex</button>
 <div id="WACV2023" style="display:none;">
 @InProceedings{Peng_2023_WACV,<br>
     author    = {Peng, Chi-Han and Zhang, Jiayao},<br>
@@ -111,8 +112,8 @@ We propose a novel approach to compute high-resolution (2048x1024 and higher) de
 <h2>H&E Stain Normalization using U-Net</h2>
 <p><a href="https://pengchihan.co/wp-content/uploads/2022/10/BIBE_Results.png"><img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2022/10/BIBE_Results.png" alt="" width="600"></a></p>
 <p>Chi-Chen Lee, Po-Tsun Paul Kuo, and Chi-Han Peng<br>
-<a href="https://bibe2022.asia.edu.tw/">IEEE International Conference on BioInformatics and BioEngineering (BIBE)</a>, 2022. (short paper)</br>
-<a href="https://pengchihan.co/wp-content/uploads/2022/11/BIBE2022_paper.pdf">Paper</a>&#20;|&#20;<a href="https://arxiv.org/abs/2211.05420">Arxiv</a>&#20;|&#20;<button onclick="function_BIBE2022()">BibTex</button>
+<a href="https://bibe2022.asia.edu.tw/">IEEE International Conference on BioInformatics and BioEngineering (BIBE)</a>, 2022 (short paper)<br>
+<a href="https://pengchihan.co/wp-content/uploads/2022/11/BIBE2022_paper.pdf">Paper</a>&nbsp;|&nbsp;<a href="https://arxiv.org/abs/2211.05420">Arxiv</a>&nbsp;|&nbsp;<button onclick="function_BIBE2022()">BibTex</button>
 <div id="BIBE2022" style="display:none;">
 @INPROCEEDINGS {9973557,<br>
 author = {C. Lee and P. Kuo and C. Peng},<br>
@@ -146,8 +147,8 @@ process larger images with better quality compared to CycleGAN. We also compared
 <p><a href="https://pengchihan.co/wp-content/uploads/2022/10/STAG2022_teaser.jpg">
 <img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2022/10/STAG2022_teaser.jpg" alt="" width="600"></a></p>
 <p>Syuan-Rong Syu and Chi-Han Peng<br>
-<a href="https://www.stag-conference.org/2022/">Smart Tools and Applications in Graphics (STAG)</a>, 2022.</br>
-<a href="https://arxiv.org/abs/2211.07296">Arxiv</a>&#20;|&#20;<button onclick="function_STAG2022()">BibTex</button>
+<a href="https://www.stag-conference.org/2022/">Smart Tools and Applications in Graphics (STAG)</a>, 2022<br>
+<a href="https://arxiv.org/abs/2211.07296">Arxiv</a>&nbsp;|&nbsp;<button onclick="function_STAG2022()">BibTex</button>
 <div id="STAG2022" style="display:none;">
 @inproceedings {10.2312:stag.20221260,<br>
 booktitle = {Smart Tools and Applications in Graphics - Eurographics Italian Chapter Conference},<br>
@@ -177,8 +178,8 @@ We propose a computational approach to find a minimal set of 360◦ camera place
 
 <h2>Floor Plan Exploration Framework Based on Similarity Distances</h2>
 <p><a href="https://pengchihan.co/wp-content/uploads/2022/10/STAG2022_poster_architecture.jpg"><img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2022/10/STAG2022_poster_architecture.jpg" alt="" width="600"></a></p>
-<p>Chia-Ying Shih and Chi-Han Peng<br><a href="https://www.stag-conference.org/2022/">Smart Tools and Applications in Graphics (STAG)</a> (poster), 2022.<br>
-<a href="https://arxiv.org/abs/2211.07331">Arxiv</a>&#20;|&#20;<button onclick="function_STAG2022p()">BibTex</button>
+<p>Chia-Ying Shih and Chi-Han Peng<br><a href="https://www.stag-conference.org/2022/">Smart Tools and Applications in Graphics (STAG)</a> (poster) 2022.<br>
+<a href="https://arxiv.org/abs/2211.07331">Arxiv</a>&nbsp;|&nbsp;<button onclick="function_STAG2022p()">BibTex</button>
 <div id="STAG2022p" style="display:none;">
 @inproceedings {10.2312:stag.20221263,<br>
 booktitle = {Smart Tools and Applications in Graphics - Eurographics Italian Chapter Conference},<br>
