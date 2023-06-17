@@ -261,7 +261,8 @@ and the impact of the design decisions. For a complete evaluation, we also propo
 <h2>Checkerboard Patterns with Black Rectangles</h2>
 <p><a href="https://pengchihan.co/wp-content/uploads/2019/08/teaser.png"><img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2019/08/teaser.png" alt="" width="600"></a></p>
 <p>Chi-Han Peng*, Caigui Jiang*, Peter Wonka, Helmut Pottmann<br>
-ACM Transactions on Graphics (Proceedings of ACM SIGGRAPH ASIA 2019)<br><a href="https://pengchihan.co/papers/checkerboard_main.pdf">Paper (authors' version)</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/checkerboard_additional_materials.pdf">Additional Materials</a> | <a href="https://pengchihan.co/papers/checkerboard_video_SIGA19.mp4">Video</a>&nbsp;|&nbsp;<button onclick="function_Sig2019()">BibTex</button>
+ACM Transactions on Graphics (Proceedings of ACM SIGGRAPH ASIA 2019)<br>
+<a href="https://pengchihan.co/papers/checkerboard_main.pdf">Paper (authors' version)</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/checkerboard_additional_materials.pdf">Additional Materials</a> | <a href="https://pengchihan.co/papers/checkerboard_video_SIGA19.mp4">Video</a>&nbsp;|&nbsp;<button onclick="function_Sig2019()">BibTex</button>
 <div id="Sig2019" style="display:none;">
 @article{10.1145/3355089.3356514,<br>
 author = {Peng, Chi-Han and Jiang, Caigui and Wonka, Peter and Pottmann, Helmut},<br>
@@ -320,5 +321,113 @@ function function_CVPR2019() {
 </script></p>
 <p>Abstract:<br>
 We present a deep learning framework, called DuLa-Net, to predict Manhattan-world 3D room layouts from a single RGB panorama. To achieve better prediction accuracy, our method leverages two projections of the panorama at once, namely the equirectangular panorama-view and the<br>perspective ceiling-view, that each contains different clues about the room layouts. Our network architecture consists of two encoder-decoder branches for analyzing each of the two views. In addition, a novel feature fusion structure is proposed to connect two branches, which are then jointly trained to predict the 2D floor plans and layout heights. To learn more complex room layouts, we introduce the Realtor360 dataset that contains panoramas of Manhattan world room layouts with different numbers of corners. Experimental results show that our work outperforms recent state-of-the-art in prediction accuracy and performance, especially in the rooms with non-cuboid layouts.</p>
+
+<hr>
+
+<h2>Designing Patterns using Triangle-Quad Hybrid Meshes</h2>
+<p><a href="https://pengchihan.co/wp-content/uploads/2018/04/Representative-.jpg"><img class="wp-image-87 aligncenter" src="https://pengchihan.co/wp-content/uploads/2018/04/Representative-.jpg" alt="layout" width="600"></a></p>
+<p>Chi-Han Peng, Helmut Pottmann, Peter Wonka<br>ACM Transactions on Graphics (Proceedings of ACM SIGGRAPH 2018)<br>
+<a href="https://pengchihan.co/papers/hybrid/DesigningPatternsUsingTriangleQuadHybridMeshes_main.pdf">Paper (authors' version)</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/hybrid/DesigningPatternsUsingTriangleQuadHybridMeshes_additional_materials.pdf">Additional Materials</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/hybrid/DesigningPatternsUsingTriangleQuadHybridMeshes.mp4">Video</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/hybrid/DesigningPatternsUsingTriangleQuadHybridMeshes_models.zip">Models</a>|<button onclick="function_Sig2018()">BibTex</button>
+<div id="Sig2018" style="display:none;">
+@article{10.1145/3197517.3201306,<br>
+author = {Peng, Chi-Han and Pottmann, Helmut and Wonka, Peter},<br>
+title = {Designing Patterns Using Triangle-Quad Hybrid Meshes},<br>
+year = {2018},<br>
+publisher = {Association for Computing Machinery},<br>
+address = {New York, NY, USA},<br>
+volume = {37},<br>
+number = {4},<br>
+issn = {0730-0301},<br>
+doi = {10.1145/3197517.3201306},<br>
+journal = {ACM Trans. Graph.},<br>
+month = {jul},<br>
+articleno = {107},<br>
+}
+</div>
+<script>
+function function_Sig2018() {
+  var x = document.getElementById("Sig2018");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script></p>
+<p>Abstract:<br>
+We present a framework to generate mesh patterns that consist of a hybrid of both triangles and quads. Given a 3D surface, the generated patterns fit the surface boundaries and curvatures. Such regular and nearly regular triangl-equad hybrid meshes provide two key advantages: first, novel-looking polygonal patterns achieved by mixing different arrangements of triangles and quads together; second, a finer discretization of angle deficits than utilizing triangles or quads alone. Users have controls over the generated patterns in global and local levels. We demonstrate applications of our approach in architectural geometry and pattern design on surfaces.</p>
+
+<hr>
+
+<h2>Computational Network Design from Functional Specifications</h2>
+<p><a href="https://pengchihan.co/wp-content/uploads/2018/04/ComputationalNetworkDesignFromFunctionalSpecifications.png"><img class="alignnone  wp-image-87" src="https://pengchihan.co/wp-content/uploads/2018/04/ComputationalNetworkDesignFromFunctionalSpecifications.png" alt="layout" width="1000"></a></p>
+<p>Chi-Han Peng, Yong-Liang Yang, Fan Bao, Daniel Fink, Dong-Ming Yan, Peter Wonka, Niloy J. Mitra<br>ACM Transactions on Graphics (Proceedings of ACM SIGGRAPH 2016)<br>
+<a href="https://pengchihan.co/wp-content/uploads/2018/04/functional_layout.pdf">Paper (authors' version)</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/wp-content/uploads/2018/04/functional_layout.pptx">Slides</a>&nbsp;|&nbsp;<button onclick="function_Sig2016()">BibTex</button>
+<div id="Sig2016" style="display:none;">
+@article{10.1145/2897824.2925935,<br>
+author = {Peng, Chi-Han and Yang, Yong-Liang and Bao, Fan and Fink, Daniel and Yan, Dong-Ming and Wonka, Peter and Mitra, Niloy J.},<br>
+title = {Computational Network Design from Functional Specifications},
+year = {2016},<br>
+issue_date = {July 2016},<br>
+publisher = {Association for Computing Machinery},<br>
+address = {New York, NY, USA},<br>
+volume = {35},<br>
+number = {4},<br>
+issn = {0730-0301},<br>
+doi = {10.1145/2897824.2925935},<br>
+journal = {ACM Trans. Graph.},<br>
+month = {jul},<br>
+articleno = {131},<br>
+}
+</div>
+<script>
+function function_Sig2016() {
+  var x = document.getElementById("Sig2016");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script></p>
+<p>Abstract:<br>
+Connectivity and layout of underlying networks largely determine agent behavior and usage in many environments. For example, transportation networks determine the flow of traffic in a neighborhood, whereas building floorplans determine the flow of people in a workspace. Designing such networks from scratch is challenging as even local network changes can have large global effects. We investigate how to computationally create networks starting from only high-level functional specifications. Such specifications can be in the form of network density, travel time versus network length, traffic type, destination location, etc. We propose an integer programming-based approach that guarantees that the resultant networks are valid by fulfilling all the specified hard constraints and that they score favorably in terms of the objective function. We evaluate our algorithm in two different design settings, street layout and floorplans to demonstrate that diverse networks can emerge purely from high-level functional specifications.</p>
+
+<hr>
+
+<h2>Computing Layouts with Deformable Templates</h2>
+<p><a href="https://pengchihan.co/wp-content/uploads/2014/04/pentagon.png"><img class="alignnone  wp-image-87" src="https://pengchihan.co/wp-content/uploads/2014/04/pentagon_small.png" alt="layout" width="1000"></a></p>
+<p>Chi-Han Peng, Yong-Liang Yang, and Peter Wonka<br>ACM Transactions on Graphics (Proceedings of ACM SIGGRAPH 2014)<br>
+<a href="https://pengchihan.co/papers/tiling/">Project Page</a> | <a href="https://pengchihan.co/papers/tiling/Computing_Layouts_with_Deformable_Templates.pdf">Paper (authors' version)</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/tiling/Computing_Layouts_with_Deformable_Templates_additional_materials.pdf">Additional Materials</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/tiling/Computing_Layouts_with_Deformable_Templates_Siggraph2014.pptx">Talk Slides</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/tiling/Computing_Layouts_with_Deformable_Templates_fastforward.pptx">Fast-Forward Slides</a>&nbsp;|&nbsp;<button onclick="function_Sig2014()">BibTex</button>
+<div id="Sig2014" style="display:none;">
+@article{10.1145/2601097.2601164,<br>
+author = {Peng, Chi-Han and Yang, Yong-Liang and Wonka, Peter},<br>
+title = {Computing Layouts with Deformable Templates},<br>
+year = {2014},<br>
+issue_date = {July 2014},<br>
+publisher = {Association for Computing Machinery},<br>
+address = {New York, NY, USA},<br>
+volume = {33},<br>
+number = {4},<br>
+issn = {0730-0301},<br>
+doi = {10.1145/2601097.2601164},<br>
+journal = {ACM Trans. Graph.},<br>
+month = {jul},<br>
+articleno = {99},<br>
+numpages = {11},<br>
+}
+</div>
+<script>
+function function_Sig2014() {
+  var x = document.getElementById("Sig2014");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script></p>
+<p>Abstract:<br>
+In this paper we tackle the problem of tiling a domain with a set of deformable templates. A valid solution to this problem completely covers the domain with templates such that the templates do not overlap. We generalize existing specialized solutions and formulate a general layout problem by modeling important constraints and admissible template deformations. Our main idea for the solution is to break the layout algorithm into two steps: a discrete step to layout the approximate template positions and a continuous step to refine the template shapes. Our approach is suitable for a large class of applications, including floorplanning, urban layouts, and arts and design.</p>
 
 <hr>
