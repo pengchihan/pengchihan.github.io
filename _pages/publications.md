@@ -562,7 +562,7 @@ We propose new connectivity editing operations for quadrilateral meshes with the
 <p><a href="/files/userassistedmeshsimplification1.png"><img class="wp-image-63 alignnone" src="/files/userassistedmeshsimplification1.png" alt="userassistedmeshsimplification" width="600" height="246"></a></p>
 <p>Tan-Chi Ho, Yi-Chun Lin, Jung-Hong Chuang, Chi-Han Peng, Yu-Jung Cheng<br>
 VRCIA '06 Proceedings of the 2006 ACM international conference on Virtual reality continuum and its applications<br>
-<a href="https://dl.dropboxusercontent.com/u/4064057/User%20Assisted%20Mesh%20Simplification.pdf">Paper</a>&nbsp;|&nbsp;<button onclick="function_VRCIA()">BibTex</button>
+<a href="https://pengchihan.co/papers/UserAssistedMeshSimplification.pdf">Paper</a>&nbsp;|&nbsp;<button onclick="function_VRCIA()">BibTex</button>
 <div id="VRCIA" style="display:none;">
 @inproceedings{10.1145/1128923.1128934,<br>
 author = {Ho, Tan-Chi and Lin, Yi-Chun and Chuang, Jung-Hong and Peng, Chi-Han and Cheng, Yu-Jung},<br>
