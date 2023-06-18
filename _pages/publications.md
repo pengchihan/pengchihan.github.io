@@ -485,7 +485,7 @@ We present a framework for exploring topologically unique quadrangulations of an
 <a href="https://pengchihan.co/papers/Connectivity%20Editing%20for%20Quad%20Dominant%20Meshes%20SGP2013.pdf">Paper</a>&nbsp;|&nbsp;
 <a href="https://pengchihan.co/papers/Connectivity%20Editing%20for%20Quad%20Dominant%20Meshes%20SGP2013%20additional%20materials.pdf">Additional Materials</a>&nbsp;|&nbsp;
 <a href="http://www.youtube.com/watch?v=HRCELTuOGXw&amp;feature=youtu.be">Video (youtube)</a>&nbsp;|&nbsp;
-<a href="https://pengchihan.co/papers/qdedit%20SGP%20slides.pptx">Slides</a>&nbsp;|&nbsp;<button onclick="function_SGP2013()">BibTex</button>
+<a href="https://pengchihan.co/papers/Connectivity%20Editing%20for%20Quad%20Dominant%20Meshes.pptx">Slides</a>&nbsp;|&nbsp;<button onclick="function_SGP2013()">BibTex</button>
 <div id="SGP2013" style="display:none;">
 @inproceedings{10.1111/cgf.12171,<br>
 author = {Peng, Chi-Han and Wonka, Peter},<br>
