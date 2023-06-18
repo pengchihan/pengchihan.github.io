@@ -15,7 +15,7 @@ author_profile: true
 
 
 <h3>KAUST, Saudi Arabia</h3>
-<p><a href="/files/KAUST.jpg"><img class="wp-image-50 alignnone" src="/files/KAUST.jpg" alt="KAUST" width="600" height="218"></a></p>
+<p><a href="/files/KAUST.jpg"><img class="wp-image-50 alignnone" src="/files/KAUST.jpg" alt="KAUST" width="800" height="218"></a></p>
 <p>I visited GMSV at King Abdullah University of Science and Technology (KAUST), Saudi Arabia, for the 2011 and 2012 winter breaks.</p>
 
 <hr>
@@ -30,5 +30,5 @@ In conclusion, I just feel lucky in choosing the career of a software engineer. 
 <hr>
 
 <h3>Meow Meow</h3>
-<p><a href="/files/meowmeow.jpg"><img class="wp-image-50 alignnone" src="/files/meowmeow.jpg" alt="KAUST" width="600" height="218"></a></p>
+<p><a href="/files/meowmeow.jpg"><img class="wp-image-50 alignnone" src="/files/meowmeow.jpg" alt="KAUST" width="500" height="218"></a></p>
 <p>This is my cat doing his own research.</p>
