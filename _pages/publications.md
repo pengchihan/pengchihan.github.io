@@ -445,7 +445,7 @@ In this paper we tackle the problem of tiling a domain with a set of deformable 
 <p><a href="/files/exploring_quadrangulations_2.jpg"><img class="alignnone  wp-image-87" src="/files/exploring_quadrangulations_2.jpg" alt="exploring_quadrangulations_2" width="600"></a></p>
 <p>Chi-Han Peng, Michael Barton, Caigui Jiang, and Peter Wonka<br>
 ACM Transactions on Graphics (to be presented at SIGGRAPH 2014)<br>
-<a href="https://pengchihan.co/papers/explore/">Project Page</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/explore/ExploringQuadrangulations%20main_paper.pdf">Paper (authors' version)</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/explore/ExploringQuadrangulations%20additional_materials.pdf">Additional Materials</a>&nbsp;|&nbsp;<a href="http://www.youtube.com/watch?v=9dvSntCIE60&amp;feature=youtu.be">Video (youtube)</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/explore/ExploreQuadrangulations%20meshes.zip">Models</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/explore/Exploring_Quadrangulations_Siggraph2014.pptx">Talk Slides</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/explore/Exploring_Quadrangulations_fastforward.pptx">Fast-Forward Slides</a>&nbsp;|&nbsp;<button onclick="function_Sig2014a()">BibTex</button>
+<a href="https://pengchihan.co/papers/explore/">Project Page</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/explore/ExploringQuadrangulations%20main_paper.pdf">Paper</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/explore/ExploringQuadrangulations%20additional_materials.pdf">Additional Materials</a>&nbsp;|&nbsp;<a href="http://www.youtube.com/watch?v=9dvSntCIE60&amp;feature=youtu.be">Video (youtube)</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/explore/ExploreQuadrangulations%20meshes.zip">Models</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/explore/Exploring_Quadrangulations_Siggraph2014.pptx">Talk Slides</a>&nbsp;|&nbsp;<a href="https://pengchihan.co/papers/explore/Exploring_Quadrangulations_fastforward.pptx">Fast-Forward Slides</a>&nbsp;|&nbsp;<button onclick="function_Sig2014a()">BibTex</button>
 <div id="Sig2014a" style="display:none;">
 @article{10.1145/2541533,<br>
 author = {Peng, Chi-Han and Barton, Michael and Jiang, Caigui and Wonka, Peter},<br>
@@ -485,7 +485,7 @@ We present a framework for exploring topologically unique quadrangulations of an
 <a href="https://pengchihan.co/papers/Connectivity%20Editing%20for%20Quad%20Dominant%20Meshes%20SGP2013.pdf">Paper</a>&nbsp;|&nbsp;
 <a href="https://pengchihan.co/papers/Connectivity%20Editing%20for%20Quad%20Dominant%20Meshes%20SGP2013%20additional%20materials.pdf">Additional Materials</a>&nbsp;|&nbsp;
 <a href="http://www.youtube.com/watch?v=HRCELTuOGXw&amp;feature=youtu.be">Video (youtube)</a>&nbsp;|&nbsp;
-<a href="https://pengchihan.co/papers/Connectivity%20Editing%20for%20Quad%20Dominant%20Meshes.pptx">Slides</a>&nbsp;|&nbsp;<button onclick="function_SGP2013()">BibTex</button>
+<a href="https://pengchihan.co/papers/Connectivity%20Control%20for%20Quad%20Dominant%20Meshes.pptx">Slides</a>&nbsp;|&nbsp;<button onclick="function_SGP2013()">BibTex</button>
 <div id="SGP2013" style="display:none;">
 @inproceedings{10.1111/cgf.12171,<br>
 author = {Peng, Chi-Han and Wonka, Peter},<br>
