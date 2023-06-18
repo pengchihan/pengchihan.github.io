@@ -78,7 +78,7 @@ distortion measured quantitatively and qualitatively.
 <hr>
 
 <h2>High-Resolution Depth Estimation for 360◦ Panoramas through Perspective and Panoramic Depth Images Registration</h2>
-<p><a href="https://pengchihan.co/wp-content/uploads/2022/10/WACV_overview.jpg"><img class="alignleft size-full wp-image-377" src="https://pengchihan.co/wp-content/uploads/2022/10/WACV_overview.jpg" alt="" width="600"></a></p>
+<p><a href="/files/WACV_overview.jpg"><img class="alignleft size-full wp-image-377" src="/files/WACV_overview.jpg" alt="" width="600"></a></p>
 <p>Chi-Han Peng and Jiayao Zhang<br>
 <a href="https://wacv2023.thecvf.com/">IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)</a>, 2023<br>
 <a href="https://pengchihan.co/papers/Peng_High-Resolution_Depth_Estimation_for_360deg_Panoramas_Through_Perspective_and_Panoramic_WACV_2023_paper.pdf">Paper</a>&nbsp;|&nbsp;
