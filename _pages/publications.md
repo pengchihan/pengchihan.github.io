@@ -12,7 +12,8 @@ author_profile: true
 <p>Jheng-Wei Su, Chi-Han Peng, Peter Wonka, Hung-Kuo Chu<br>
 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR) 2023,<br>
 <a href="https://sites.google.com/view/omnicv2023">Omnidirectional Computer Vision Workshop (Omnicv2023)</a><br>
-<a href="https://arxiv.org/abs/2210.11419">Paper (Arxiv)</a>&nbsp;|&nbsp;<button onclick="function_CVPRW2023()">BibTex</button>
+<a href="https://arxiv.org/abs/2210.11419">Paper (Arxiv)</a>&nbsp;|&nbsp;
+<button onclick="function_CVPRW2023()">BibTex</button>
 <div id="CVPRW2023" style="display:none;">
 @InProceedings{Su_2023_CVPRW,<br>
     author    = {Jheng-Wei Su, Chi-Han Peng, Peter Wonka, Hung-Kuo Chu},<br>
@@ -43,7 +44,9 @@ Reconstructing 3D layouts from multiple 360∘ panoramas has received increasing
 <p><a href="/files/nicograph.jpg"><img class="alignleft size-full wp-image-377" src="/files/nicograph.jpg" alt="" width="600"></a></p>
 <p>Chi-Han Peng, Jiayao Zhang, Chia-Chia Chen, Yun-Wei Lin<br>
 <a href="https://www.art-science.org/nicograph/nicoint2023/#nicoint2023-award">NICOGRAPH International 2023</a>. <font color="red">*Best Short Paper Award</font><br>
-<a href="https://pengchihan.co/papers/NICOGRAPH2023_final.pdf">Paper</a>&nbsp;|&nbsp;<a href="https://arxiv.org/abs/2111.12018">Paper (previous Arxiv version)</a>&nbsp;|&nbsp;<button onclick="function_NICOGRAPH2023()">BibTex</button>
+<a href="https://pengchihan.co/papers/NICOGRAPH2023_final.pdf">Paper</a>&nbsp;|&nbsp;
+<a href="https://arxiv.org/abs/2111.12018">Paper (previous Arxiv version)</a>&nbsp;|&nbsp;
+<button onclick="function_NICOGRAPH2023()">BibTex</button>
 <div id="NICOGRAPH2023" style="display:none;">
 @InProceedings{Peng_2023_NICOGRAPH,<br>
     author    = {Chi-Han Peng, Jiayao Zhang, Chia-Chia Chen, Yun-Wei Lin},<br>
@@ -185,7 +188,7 @@ We propose a computational approach to find a minimal set of 360◦ camera place
 <h2>Floor Plan Exploration Framework Based on Similarity Distances</h2>
 <p><a href="/files/STAG2022_poster_architecture.jpg"><img class="alignleft size-full wp-image-377" src="/files/STAG2022_poster_architecture.jpg" alt="" width="600"></a></p>
 <p>Chia-Ying Shih and Chi-Han Peng<br><a href="https://www.stag-conference.org/2022/">Smart Tools and Applications in Graphics (STAG)</a> (poster) 2022.<br>
-<a href="https://pengchihan.co/papers/STAG_poster.pdf">Paper</a>&nbsp;|&nbsp;
+<a href="https://pengchihan.co/papers/STAG2022_poster.pdf">Paper</a>&nbsp;|&nbsp;
 <a href="https://arxiv.org/abs/2211.07331">Arxiv</a>&nbsp;|&nbsp;<button onclick="function_STAG2022p()">BibTex</button>
 <div id="STAG2022p" style="display:none;">
 @inproceedings {10.2312:stag.20221263,<br>
@@ -515,7 +518,13 @@ We propose a connectivity editing framework for quad-dominant meshes. In our fra
 
 <h2>Connectivity Editing for Quadrilateral Meshes</h2>
 <p><a href="/files/quadedit.png"><img class="wp-image-50 alignnone" src="/files/quadedit.png" alt="connectivity_editing_for_quadrilateral_meshes" width="600" height="218"></a></p>
-<p>Chi-Han Peng, Eugene Zhang, Yoshihiro Kobayashi, and Peter Wonka<br>ACM Transactions on Graphics (Proceedings of ACM SIGGRAPH ASIA 2011)<br><a href="https://pengchihan.co/papers/connectivity/">Project Page</a>&nbsp;|&nbsp;<a href="http://www.public.asu.edu/~pchihan/connectivity/ConnectivityEditingForQuadrilateralMeshes.pdf">Paper</a>&nbsp;|&nbsp;<a href="http://www.public.asu.edu/~pchihan/connectivity/ConnectivityEditingForQuadrilateralMeshes_additional_material.pdf">Additional Materials</a>&nbsp;|&nbsp;<a href="http://www.youtube.com/watch?v=7h4fcjdqA8Q">Video (youtube)</a>&nbsp;|&nbsp;<a href="https://dl.dropboxusercontent.com/u/4064057/SiggraphAsia2011_Presentation.pptx">Slides</a>&nbsp;|&nbsp;<button onclick="function_Sig2011()">BibTex</button>
+<p>Chi-Han Peng, Eugene Zhang, Yoshihiro Kobayashi, and Peter Wonka<br>ACM Transactions on Graphics (Proceedings of ACM SIGGRAPH ASIA 2011)<br>
+<a href="https://pengchihan.co/papers/connectivity/">Project Page</a>&nbsp;|&nbsp;
+<a href="https://pengchihan.co/papers/connectivity/ConnectivityEditingForQuadrilateralMeshes.pdf">Paper</a>&nbsp;|&nbsp;
+<a href="https://pengchihan.co/papers/connectivity/ConnectivityEditingForQuadrilateralMeshes_additional_material.pdf">Additional Materials</a>&nbsp;|&nbsp;
+<a href="http://www.youtube.com/watch?v=7h4fcjdqA8Q">Video (youtube)</a>&nbsp;|&nbsp;
+<a href="https://pengchihan.co/papers/connectivity/SiggraphAsia2011_Presentation.pptx">Slides</a>&nbsp;|&nbsp;
+<button onclick="function_Sig2011()">BibTex</button>
 <div id="Sig2011" style="display:none;">
 @article{10.1145/2070781.2024175,<br>
 author = {Peng, Chi-Han and Zhang, Eugene and Kobayashi, Yoshihiro and Wonka, Peter},<br>
