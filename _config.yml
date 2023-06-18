@@ -190,6 +190,9 @@ collections:
   patents:
     output: true
     permalink: /:collection/:patents/
+  serendipity:
+    output: true
+    permalink: /:collection/:serendipity/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -246,6 +249,15 @@ defaults:
   - scope:
       path: ""
       type: patents
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _serendipity
+  - scope:
+      path: ""
+      type: serendipity
     values:
       layout: single
       author_profile: true

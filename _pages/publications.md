@@ -480,7 +480,7 @@ We present a framework for exploring topologically unique quadrangulations of an
 <hr>
 
 <h2>Connectivity Editing for Quad-Dominant Meshes</h2>
-<p><a href="/files/tower.png"><br><img class="wp-image-48 alignnone" src="/files/tower.png" alt="connectivity_editing_for_quad_dominant_meshes" width="600" height="300"></a></p>
+<p><a href="/files/tower.png"><img class="wp-image-48 alignnone" src="/files/tower.png" alt="connectivity_editing_for_quad_dominant_meshes" width="600" height="300"></a></p>
 <p>Chi-Han Peng and Peter Wonka<br>Eurographics Symposium on Geometry Processing (SGP) 2013<br>
 <a href="https://pengchihan.co/papers/Connectivity%20Editing%20for%20Quad%20Dominant%20Meshes%20SGP2013.pdf">Paper</a>&nbsp;|&nbsp;
 <a href="https://pengchihan.co/papers/Connectivity%20Editing%20for%20Quad%20Dominant%20Meshes%20SGP2013%20additional%20materials.pdf">Additional Materials</a>&nbsp;|&nbsp;

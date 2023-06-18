@@ -16,7 +16,10 @@ main:
     url: /work/
 
   - title: "Patents"
-    url: /patents/       
+    url: /patents/ 
+
+  - title: "Serendipity"
+    url: /serendipity/     
     
 #  - title: "Portfolio"
 #    url: /portfolio/
