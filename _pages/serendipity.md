@@ -40,5 +40,5 @@ In conclusion, I just feel lucky in choosing the career of a software engineer. 
 <hr>
 
 <h3>Meow Meow</h3>
-<p><a href="/files/meowmeow.jpg"><img class="wp-image-50 alignnone" src="/files/meowmeow.jpg" alt="KAUST" width="500"></a></p>
+<p><a href="/files/meowmeow.jpg"><img class="wp-image-50 alignnone" src="/files/meowmeow.jpg" alt="KAUST" width="400"></a></p>
 <p>This is my cat doing his own research.</p>
