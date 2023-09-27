@@ -1,74 +1,32 @@
-Chi-Han, 
+-# main links links
+main:
+  - title: "Publications"
+    url: /publications/
 
- 
+#  - title: "Talks"
+#    url: /talks/    
 
-Most of the information you've uploaded is in good order. However, I need additional information from you as follows: 
+  - title: "CV"
+    url: /cv/
 
- 
+  - title: "Teaching"
+    url: /teaching/   
 
-Chi-Han:
+  - title: "Work Experience"
+    url: /work/
 
-1) We need the following information in regard to your prior military service:
+  - title: "Patents"
+    url: /patents/ 
 
-a) Branch of Service
-
-b) Rank/Position
-
-c) Military Specialty
-
-d) Dates of Service (to/from)(mm/dd/yyyy)
-
-2) Can you please confirm your mother's state/province of birth? 
-
-3) It appears that your address history has overlapping gaps/dates. Please note that the DS-260 will now allow us to enter in your residential address history as its currently listed. We need your physical address history listed consecutively/back-to-back. If you do not have room on your IV worksheet, please list out your residential address history consecutively on a separate Word document. 
-
- 
-
-Yu-Ying:
-
-1) Can you please confirm Yu-Ying's mother's and father's state/province of birth?
-
-2) It appears that her address history has overlapping gaps/dates. Please note that the DS-260 will now allow us to enter in her residential address history as its currently listed. We need her physical address history listed consecutively/back-to-back. If she do not have room on her IV worksheet, please list out her residential address history consecutively on a separate Word document. 
-
-3) The DS-260 will have a drop-down menu regarding Yu-Yings current employer. Can you specify what kind of work Yu-Ying does at Campus Vacation Rentals LLC? 
-
- 
-
- 
-
-In response to your questions above, please see my comments below: 
-
- 
-
-1) One thing I want to note is that I lived in Saudi Arabia during 02/2017 to 09/2019 due to my emplyment at King Abdullah University of Science and Technology. However, it is not possible for foreigners to obtain Police Certificates after they leave Saudi Arabia (according to https://travel.state.gov/content/travel/en/us-visas/Visa-Reciprocity-and-Civil-Documents-by-Country/SaudiArabia.html), and the website lists Police Certificates as "Exceptions". So I just don't provide a police certificate for that.
-
- 
-
-- Thank you for letting us know. Yes, the reciprocity schedule states that non-Saudi citizens not currently residing in the Saudi Arabia cannot obtain a police certificate.
-
- 
-
-2) I and my wife also briefly lived in UK for 5 months (below the 1 year threshold), and myself lived in China for 7 months (below the 1 year threshold). Please check the uploaded documents and see if I should provide/correct somethings.
-
- 
-
-- Since you resided in the UK and China for under one year, you should not need to obtain these police certificates. However, I will confirm with you once you upload your residential address history (since you were 16) in its entirety. 
-
- 
-
- 
-
- 
-
-Thanks! 
-
-
-
----
-
-
-Hi Chi-Han, 
-
- 
-
-That sounds great, thanks! Once you upload documents to the portal, please send us a message so we can review them and respond to you promptly. As for your address histories, overlapping dates and addresses are not allowed unfortunately. We need your physical address history in each place you've resided at since you were 16. If you have multiple homes and visit each home for certain periods of time, we need to list these trips as a part of your residential history. If this doesn't make sense, let me know and I will do my best to elaborate! 
+  - title: "Serendipity"
+    url: /serendipity/     
+    
+#  - title: "Portfolio"
+#    url: /portfolio/
+        
+#  - title: "Blog Posts"
+#    url: /year-archive/
+    
+    
+#  - title: "Guide"
+#    url: /markdown/
