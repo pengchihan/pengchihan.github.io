@@ -7,10 +7,12 @@ author_profile: true
 
 <hr>
 
+<hr>
+
 <h2>SLIBO-Net: Floorplan Reconstruction via Slicing Box Representation with Local Geometry Regularization</h2>
 <p><a href="/files/SLIBONet.png"><img class="alignleft size-full wp-image-377" src="/files/SLIBONet.png" alt="" width="600"></a></p>
 <p>Jheng-Wei Su, Kuei-Yu Tung, Chi-Han Peng, Peter Wonka, Hung-Kuo Chu<br>
-NeurIPS 2023, to appear<br>
+Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS) 2023, to appear<br>
 <a href="https://openreview.net/forum?id=HYo2Ao3hP8">OpenReview page (with paper download link)</a><br>
 </p>
 <p>Abstract:<br>
