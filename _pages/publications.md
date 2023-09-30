@@ -7,12 +7,14 @@ author_profile: true
 
 <hr>
 
-<h2>Interactive Relative Pose Estimation for 360◦ Indoor Panoramas throughWall-Wall Matching Selections</h2>
+<h2>Interactive Relative Pose Estimation for 360◦ Indoor Panoramas through Wall-Wall Matching Selections</h2>
 <p><a href="/files/SigA2023Poster.jpg"><img class="alignleft size-full wp-image-377" src="/files/SigA2023Poster.jpg" alt="" width="600"></a></p>
 <p>Bo-Sheng Chen and Chi-Han Peng<br>
-ACM Siggraph Asia 2023 Poster<br>
+ACM Siggraph Asia 2023 Poster, to appear<br>
 <a href="https://pengchihan.co/papers/SigA2023Poster_paper.pdf">Paper (preprint)</a>&nbsp;|&nbsp;
-<a href="https://pengchihan.co/papers/SigA2023Poster_poster.pptx">Poster</a><br>
+<a href="https://pengchihan.co/papers/SigA2023Poster_poster.pptx">Poster</a>&nbsp;|&nbsp;
+<a href="https://pengchihan.co/papers/SigA2023Poster_supplementary_material.pdf">Supplementary Materials</a>&nbsp;|&nbsp;
+<a href="https://pengchihan.co/papers/SigA2023Poster_Demo_Program.zip">Demo Program</a><br>
 </p>
 <p>Abstract:<br>
 We present an interactive approach to estimating the relative camera pose of two panoramas shot in the same indoor environment. Compared to the trivial interactive baseline, which would require the user to precisely select 8 or more pairs of matching points by mouse clicks, our method just needs the user to select a pair of matching walls with two mouse clicks or keyboard strokes. Our method is based on the key observation that, in most cases, there exist at least one or multiple pairs of roughly matched walls in the room layouts estimated by neural networks - which alone are sufficient to generate accurate relative camera poses. Tested on a real-world indoor panorama dataset, our method outperforms current state-of-the-art automatic methods by large margins, compensating the additional human efforts. Through user studies, we found that matched wall-wall pairs can be easily recognized and selected by humans in relatively short time, indicating that such an interactive approach is practical.
