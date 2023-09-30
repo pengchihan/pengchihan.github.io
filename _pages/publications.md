@@ -5,7 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-<a href="#2023">2023</a>&nbsp;|&nbsp;<a href="#2022">2023</a>
+<a href="#2023">2023</a>&nbsp;|&nbsp;<a href="#2022">2022</a>&nbsp;|&nbsp;<a href="#2021">2021</a>&nbsp;|&nbsp;
+<a href="#2019">2020 and older</a>
 
 <hr>
 
@@ -251,6 +252,8 @@ originally calculated by LayoutGMN. Quantitative and qualitative evaluations sho
 
 <hr>
 
+<a id="2021"></a>
+
 <h2>Reconstructing 3D Indoor Layout from Multiple Panoramic Images (結合深度學習與圖形最佳化方法之多視角室內全景影像三維格局重建)</h2>
 <p><a href="/files/CGW2021_teaser.png"><img class="alignleft size-full wp-image-377" src="/files/CGW2021_teaser.png" alt="" width="600"></a></p>
 <p>Sio-Keong Si, Jheng-Wei Su, Chi-Han Peng, Kuo-Wei Chen, Felix Chang, Chih-Yuan Yao, and Hung-Kuo Chu <br>
@@ -300,6 +303,8 @@ wall/floor boundaries, or semantic segmentation), or method of fitting the 3D la
 and the impact of the design decisions. For a complete evaluation, we also propose extended annotations for the Matterport3D dataset, and introduce two depth-based evaluation metrics.</p>
 
 <hr>
+
+<a id="2020"></a>
 
 <h2>Checkerboard Patterns with Black Rectangles</h2>
 <p><a href="/files/checkerboard.png"><img class="alignleft size-full wp-image-377" src="/files/checkerboard.png" alt="" width="600"></a></p>
