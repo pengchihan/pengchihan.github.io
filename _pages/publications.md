@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<a href="2023">2023</a>
+<a href="#2023">2023</a>&nbsp;|&nbsp;<a href="#2022">2023</a>
 
 <hr>
 
@@ -146,6 +146,8 @@ We propose a novel approach to compute high-resolution (2048x1024 and higher) de
 </p>
 
 <hr>
+
+<a id="2022"></a>
 
 <h2>H&E Stain Normalization using U-Net</h2>
 <p><a href="/files/BIBE_Results.png"><img class="alignleft size-full wp-image-377" src="/files/BIBE_Results.png" alt="" width="600"></a></p>
