@@ -5,7 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+<a href="2023">2023</a>
+
 <hr>
+
+<a id="2023"></a>
 
 <h2>Interactive Relative Pose Estimation for 360◦ Indoor Panoramas through Wall-Wall Matching Selections</h2>
 <p><a href="/files/SigA2023Poster.jpg"><img class="alignleft size-full wp-image-377" src="/files/SigA2023Poster.jpg" alt="" width="600"></a></p>
