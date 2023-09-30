@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <a href="#2023">2023</a>&nbsp;|&nbsp;<a href="#2022">2022</a>&nbsp;|&nbsp;<a href="#2021">2021</a>&nbsp;|&nbsp;
-<a href="#2019">2020 and older</a>
+<a href="#2020">2020 and older</a>
 
 <hr>
 
@@ -112,6 +112,8 @@ distortion measured quantitatively and qualitatively.
 
 <hr>
 
+<a id="2022"></a>
+
 <h2>High-Resolution Depth Estimation for 360◦ Panoramas through Perspective and Panoramic Depth Images Registration</h2>
 <p><a href="/files/WACV_overview.jpg"><img class="alignleft size-full wp-image-377" src="/files/WACV_overview.jpg" alt="" width="600"></a></p>
 <p>Chi-Han Peng and Jiayao Zhang<br>
@@ -120,7 +122,7 @@ distortion measured quantitatively and qualitatively.
 <a href="https://pengchihan.co/papers/Peng_High-Resolution_Depth_Estimation_WACV_2023_supplemental.pdf">Supplemental</a>&nbsp;|&nbsp;
 <a href="https://pengchihan.co/papers/1428-wacv-post.pdf">Poster</a>&nbsp;|&nbsp;
 <a href="https://pengchihan.co/papers/1428-wacv.mp4">Video</a>&nbsp;|&nbsp;
-Code (coming soon)&nbsp;|&nbsp;<button onclick="function_WACV2023()">BibTex</button>
+<a href="https://github.com/Yunwei729/WACV2023-High-Resolution-Depth-Estimation-for-Panoramas-Through-Perspective-Map-Registrations">Code</a>&nbsp;|&nbsp;<button onclick="function_WACV2023()">BibTex</button>
 <div id="WACV2023" style="display:none;">
 @InProceedings{Peng_2023_WACV,<br>
     author    = {Peng, Chi-Han and Zhang, Jiayao},<br>
@@ -147,8 +149,6 @@ We propose a novel approach to compute high-resolution (2048x1024 and higher) de
 </p>
 
 <hr>
-
-<a id="2022"></a>
 
 <h2>H&E Stain Normalization using U-Net</h2>
 <p><a href="/files/BIBE_Results.png"><img class="alignleft size-full wp-image-377" src="/files/BIBE_Results.png" alt="" width="600"></a></p>
