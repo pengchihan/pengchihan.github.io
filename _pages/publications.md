@@ -12,6 +12,17 @@ author_profile: true
 
 <a id="2023"></a>
 
+<h2>Seam Removal for Patch-Based Ultra-High-Resolution Stain Normalization</h2>
+<p><a href="/files/BIBE2023.jpg"><img class="alignleft size-full wp-image-377" src="/files/SigA2023Poster.jpg" alt="" width="600"></a></p>
+<p>Chi-Chen Lee and Chi-Han Peng<br>
+The 23rd IEEE International Conference on Bioinformatics and Bioengineering (BIBE) 2023, to appear<br>
+<a href="https://pengchihan.co/papers/BIBE2023.pdf">Paper (preprint)</a>
+</p>
+<p>Abstract:<br>
+Stain normalization is a key computational method in pathology that transforms histological stain images of one style to another. Modern methods are mostly based on neural image-to-image translation techniques. For very large image inputs, which are common in practice (e.g., whole slide images (WSIs)), the inferences are forced to run multiple times, each on a different subset of the image, due to GPU memory constraints. To minimize the differences between different outputs, several modifications of the standard instance-normalization (IN) layers have been proposed. Despite the reduced color variances, visible seams remain even with these approaches, which are disruptive to histologists when they closely examine the stitched results. These seams are also detrimental to the performance of some downstream tasks such as tumor classification. Hence, we propose a novel approach to effectively remove the seams by utilizing a Pix2Pix-based neural network and an alpha blendingbased post-processing step. Tested on real-world medical and natural image datasets, we found that our method performed much better than traditional Poisson image editing-based seam removal approaches. Our approaches qualitatively (in terms of the visibility of the seams) and quantitatively improved the results by prior stain normalization methods by large margins.
+</p>
+<hr>
+
 <h2>Interactive Relative Pose Estimation for 360◦ Indoor Panoramas through Wall-Wall Matching Selections</h2>
 <p><a href="/files/SigA2023Poster.jpg"><img class="alignleft size-full wp-image-377" src="/files/SigA2023Poster.jpg" alt="" width="600"></a></p>
 <p>Bo-Sheng Chen and Chi-Han Peng<br>
