@@ -13,7 +13,7 @@ author_profile: true
 <a id="2023"></a>
 
 <h2>Seam Removal for Patch-Based Ultra-High-Resolution Stain Normalization</h2>
-<p><a href="/files/BIBE2023.png"><img class="alignleft size-full wp-image-377" src="/files/BIBE2023.png" alt="" width="600"></a></p>
+<p><a href="/files/BIBE2023.jpg"><img class="alignleft size-full wp-image-377" src="/files/BIBE2023.jpg" alt="" width="600"></a></p>
 <p>Chi-Chen Lee and Chi-Han Peng<br>
 The 23rd IEEE International Conference on Bioinformatics and Bioengineering (BIBE) 2023, to appear<br>
 <a href="https://pengchihan.co/papers/BIBE2023.pdf">Paper (preprint)</a>
