@@ -89,6 +89,8 @@ Reconstructing 3D layouts from multiple 360∘ panoramas has received increasing
 <p>Chi-Han Peng, Jiayao Zhang, Chia-Chia Chen, Yun-Wei Lin<br>
 <a href="https://www.art-science.org/nicograph/nicoint2023/#nicoint2023-award">NICOGRAPH International 2023</a>. <font color="red">*Best Short Paper Award</font><br>
 <a href="https://pengchihan.co/papers/NICOGRAPH2023_final.pdf">Paper</a>&nbsp;|&nbsp;
+<a href="https://www.youtube.com/watch?v=HvtsekvsQI0">Video</a>&nbsp;|&nbsp;
+<a href="https://pengchihan.co/papers/NICOGRAPH2023.pptx">Slides</a>&nbsp;|&nbsp;
 <a href="https://arxiv.org/abs/2111.12018">Paper (previous Arxiv version)</a>&nbsp;|&nbsp;
 <button onclick="function_NICOGRAPH2023()">BibTex</button>
 <div id="NICOGRAPH2023" style="display:none;">
