@@ -336,8 +336,6 @@ and the impact of the design decisions. For a complete evaluation, we also propo
 
 <hr>
 
-<a id="2020"></a>
-
 <h2>Checkerboard Patterns with Black Rectangles</h2>
 <p><a href="/files/checkerboard.png"><img class="alignleft size-full wp-image-377" src="/files/checkerboard.png" alt="" width="600"></a></p>
 <p>Chi-Han Peng*, Caigui Jiang*, Peter Wonka, Helmut Pottmann<br>
