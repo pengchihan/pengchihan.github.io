@@ -32,7 +32,32 @@ We present a novel discrete optimization-based approach to generate downsampled 
 <p>Chi-Chen Lee and Chi-Han Peng<br>
 The 23rd IEEE International Conference on Bioinformatics and Bioengineering (BIBE) 2023<br>
 <a href="https://pengchihan.co/papers/BIBE2023.pdf">Paper</a>&nbsp;|&nbsp;
-<a href="https://youtu.be/XwIKeZ1T4eQ?si=BK6HaZq7ZLGZhbLG">Video</a>
+<a href="https://youtu.be/XwIKeZ1T4eQ?si=BK6HaZq7ZLGZhbLG">Video</a>&nbsp;|&nbsp;
+<button onclick="function_CVPRW2023()">BibTex</button>
+<div id="BIBE2023" style="display:none;">
+@INPROCEEDINGS {10431833,
+author = {C. Lee and C. Peng},
+booktitle = {2023 IEEE 23rd International Conference on Bioinformatics and Bioengineering (BIBE)},
+title = {Seam Removal for Patch-Based Ultra-High-Resolution Stain Normalization},
+year = {2023},
+volume = {},
+issn = {},
+pages = {325-332},
+doi = {10.1109/BIBE60311.2023.00060},
+url = {https://doi.ieeecomputersociety.org/10.1109/BIBE60311.2023.00060},
+publisher = {IEEE Computer Society},
+month = {dec}
+}</div>
+<script>
+function function_CVPRW2023() {
+  var x = document.getElementById("CVPRW2023");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
 
 </p>
 <p>Abstract:<br>
@@ -48,8 +73,26 @@ ACM Siggraph Asia 2023 Poster<br>
 <a href="https://pengchihan.co/papers/SigA2023Poster_paper.pdf">Paper (preprint)</a>&nbsp;|&nbsp;
 <a href="https://pengchihan.co/papers/SigA2023Poster_poster.pptx">Poster</a>&nbsp;|&nbsp;
 <a href="https://pengchihan.co/papers/SigA2023Poster_supplementary_material.pdf">Supplementary Materials</a>&nbsp;|&nbsp;
-<a href="https://pengchihan.co/papers/SigA2023Poster_Demo_Program.zip">Demo Program</a><br>
+<a href="https://pengchihan.co/papers/SigA2023Poster_Demo_Program.zip">Demo Program</a>&nbsp;|&nbsp;
+<button onclick="function_SigA2023()">BibTex</button>
+<div id="SigA2023" style="display:none;">
+@inproceedings{10.1145/3610542.3626114,
+author = {Chen, Bosheng and Peng, Chihan},
+title = {Interactive Relative Pose Estimation for 360° Indoor Panoramas through Wall-Wall Matching Selections},
+year = {2023},
+isbn = {9798400703133},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3610542.3626114},
+doi = {10.1145/3610542.3626114},
+booktitle = {SIGGRAPH Asia 2023 Posters},
+articleno = {23},
+numpages = {2},
+series = {SA '23}
+}
+</script>
 </p>
+
 <p>Abstract:<br>
 We present an interactive approach to estimating the relative camera pose of two panoramas shot in the same indoor environment. Compared to the trivial interactive baseline, which would require the user to precisely select 8 or more pairs of matching points by mouse clicks, our method just needs the user to select a pair of matching walls with two mouse clicks or keyboard strokes. Our method is based on the key observation that, in most cases, there exist at least one or multiple pairs of roughly matched walls in the room layouts estimated by neural networks - which alone are sufficient to generate accurate relative camera poses. Tested on a real-world indoor panorama dataset, our method outperforms current state-of-the-art automatic methods by large margins, compensating the additional human efforts. Through user studies, we found that matched wall-wall pairs can be easily recognized and selected by humans in relatively short time, indicating that such an interactive approach is practical.
 </p>
@@ -60,8 +103,23 @@ We present an interactive approach to estimating the relative camera pose of two
 <p><a href="/files/SLIBONet.png"><img class="alignleft size-full wp-image-377" src="/files/SLIBONet.png" alt="" width="600"></a></p>
 <p>Jheng-Wei Su, Kuei-Yu Tung, Chi-Han Peng, Peter Wonka, Hung-Kuo Chu<br>
 Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS) 2023<br>
-<a href="https://papers.nips.cc/paper_files/paper/2023/hash/987bed997ab668f91c822a09bce3ea12-Abstract-Conference.html">NeurIPS Proceedings page</a><br>
+<a href="https://papers.nips.cc/paper_files/paper/2023/hash/987bed997ab668f91c822a09bce3ea12-Abstract-Conference.html">NeurIPS Proceedings page</a>&nbsp;|&nbsp;
+<button onclick="function_SigA2023()">BibTex</button>
+<div id="SigA2023" style="display:none;">
+@inproceedings{NEURIPS2023_987bed99,
+ author = {Su, Jheng-Wei and Tung, Kuei-Yu and Peng, Chi-Han and Wonka, Peter and Chu, Hung-Kuo (James)},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {A. Oh and T. Naumann and A. Globerson and K. Saenko and M. Hardt and S. Levine},
+ pages = {48781--48792},
+ publisher = {Curran Associates, Inc.},
+ title = {SLIBO-Net: Floorplan Reconstruction via Slicing Box Representation with Local Geometry Regularization},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2023/file/987bed997ab668f91c822a09bce3ea12-Paper-Conference.pdf},
+ volume = {36},
+ year = {2023}
+}
+</script>
 </p>
+
 <p>Abstract:<br>
 This paper focuses on improving the reconstruction of 2D floorplans from unstructured 3D point clouds. We identify opportunities for enhancement over the existing methods in three main areas: semantic quality, efficient representation, and local geometric details. To address these, we presents SLIBO-Net, an innovative approach to reconstructing 2D floorplans from unstructured 3D point clouds. We propose a novel transformer-based architecture that employs an efficient floorplan representation, providing improved room shape supervision and allowing for manageable token numbers. By incorporating geometric priors as a regularization mechanism and post-processing step, we enhance the capture of local geometric details. We also propose a scale-independent evaluation metric, correcting the discrepancy in error treatment between varying floorplan sizes. Our approach notably achieves a new state-of-the-art on the Structure3D dataset. The resultant floorplans exhibit enhanced semantic plausibility, substantially improving the overall quality and realism of the reconstructions. We will release code after publication.
 </p>
