@@ -35,18 +35,18 @@ The 23rd IEEE International Conference on Bioinformatics and Bioengineering (BIB
 <a href="https://youtu.be/XwIKeZ1T4eQ?si=BK6HaZq7ZLGZhbLG">Video</a>&nbsp;|&nbsp;
 <button onclick="function_BIBE2023()">BibTex</button>
 <div id="BIBE2023" style="display:none;">
-@INPROCEEDINGS {10431833,
-author = {C. Lee and C. Peng},
-booktitle = {2023 IEEE 23rd International Conference on Bioinformatics and Bioengineering (BIBE)},
-title = {Seam Removal for Patch-Based Ultra-High-Resolution Stain Normalization},
-year = {2023},
-volume = {},
-issn = {},
-pages = {325-332},
-doi = {10.1109/BIBE60311.2023.00060},
-url = {https://doi.ieeecomputersociety.org/10.1109/BIBE60311.2023.00060},
-publisher = {IEEE Computer Society},
-month = {dec}
+@INPROCEEDINGS {10431833,<br>
+author = {C. Lee and C. Peng},<br>
+booktitle = {2023 IEEE 23rd International Conference on Bioinformatics and Bioengineering (BIBE)},<br>
+title = {Seam Removal for Patch-Based Ultra-High-Resolution Stain Normalization},<br>
+year = {2023},<br>
+volume = {},<br>
+issn = {},<br>
+pages = {325-332},<br>
+doi = {10.1109/BIBE60311.2023.00060},<br>
+url = {https://doi.ieeecomputersociety.org/10.1109/BIBE60311.2023.00060},<br>
+publisher = {IEEE Computer Society},<br>
+month = {dec}<br>
 }
 </div>
 <script>
@@ -77,19 +77,19 @@ ACM Siggraph Asia 2023 Poster<br>
 <a href="https://pengchihan.co/papers/SigA2023Poster_Demo_Program.zip">Demo Program</a>&nbsp;|&nbsp;
 <button onclick="function_SigA2023()">BibTex</button>
 <div id="SigA2023" style="display:none;">
-@inproceedings{10.1145/3610542.3626114,
-author = {Chen, Bosheng and Peng, Chihan},
-title = {Interactive Relative Pose Estimation for 360° Indoor Panoramas through Wall-Wall Matching Selections},
-year = {2023},
-isbn = {9798400703133},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3610542.3626114},
-doi = {10.1145/3610542.3626114},
-booktitle = {SIGGRAPH Asia 2023 Posters},
-articleno = {23},
-numpages = {2},
-series = {SA '23}
+@inproceedings{10.1145/3610542.3626114,<br>
+author = {Chen, Bosheng and Peng, Chihan},<br>
+title = {Interactive Relative Pose Estimation for 360° Indoor Panoramas through Wall-Wall Matching Selections},<br>
+year = {2023},<br>
+isbn = {9798400703133},<br>
+publisher = {Association for Computing Machinery},<br>
+address = {New York, NY, USA},<br>
+url = {https://doi.org/10.1145/3610542.3626114},<br>
+doi = {10.1145/3610542.3626114},<br>
+booktitle = {SIGGRAPH Asia 2023 Posters},<br>
+articleno = {23},<br>
+numpages = {2},<br>
+series = {SA '23}<br>
 }
 </div>
 <script>
@@ -117,16 +117,16 @@ Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS) 202
 <a href="https://papers.nips.cc/paper_files/paper/2023/hash/987bed997ab668f91c822a09bce3ea12-Abstract-Conference.html">NeurIPS Proceedings page</a>&nbsp;|&nbsp;
 <button onclick="function_NIPS2023()">BibTex</button>
 <div id="NIPS2023" style="display:none;">
-@inproceedings{NEURIPS2023_987bed99,
- author = {Su, Jheng-Wei and Tung, Kuei-Yu and Peng, Chi-Han and Wonka, Peter and Chu, Hung-Kuo (James)},
- booktitle = {Advances in Neural Information Processing Systems},
- editor = {A. Oh and T. Naumann and A. Globerson and K. Saenko and M. Hardt and S. Levine},
- pages = {48781--48792},
- publisher = {Curran Associates, Inc.},
- title = {SLIBO-Net: Floorplan Reconstruction via Slicing Box Representation with Local Geometry Regularization},
- url = {https://proceedings.neurips.cc/paper_files/paper/2023/file/987bed997ab668f91c822a09bce3ea12-Paper-Conference.pdf},
- volume = {36},
- year = {2023}
+@inproceedings{NEURIPS2023_987bed99,<br>
+ author = {Su, Jheng-Wei and Tung, Kuei-Yu and Peng, Chi-Han and Wonka, Peter and Chu, Hung-Kuo (James)},<br>
+ booktitle = {Advances in Neural Information Processing Systems},<br>
+ editor = {A. Oh and T. Naumann and A. Globerson and K. Saenko and M. Hardt and S. Levine},<br>
+ pages = {48781--48792},<br>
+ publisher = {Curran Associates, Inc.},<br>
+ title = {SLIBO-Net: Floorplan Reconstruction via Slicing Box Representation with Local Geometry Regularization},<br>
+ url = {https://proceedings.neurips.cc/paper_files/paper/2023/file/987bed997ab668f91c822a09bce3ea12-Paper-Conference.pdf},<br>
+ volume = {36},<br>
+ year = {2023}<br>
 }
 </div>
 <script>
