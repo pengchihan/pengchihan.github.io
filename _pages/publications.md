@@ -5,8 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<a href="#2024">2024</a>&nbsp;|&nbsp;<a href="#2023">2023</a>&nbsp;|&nbsp;<a href="#2022">2022</a>&nbsp;|&nbsp;<a href="#2021">2021 and older</a>
-
+<a href="#2024">2024</a>|<a href="#2023">2023</a>|<a href="#2022">2022</a>|<a href="#2021">2021 and older</a>
 
 <hr>
 
