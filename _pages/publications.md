@@ -33,7 +33,7 @@ We present a novel discrete optimization-based approach to generate downsampled 
 The 23rd IEEE International Conference on Bioinformatics and Bioengineering (BIBE) 2023<br>
 <a href="https://pengchihan.co/papers/BIBE2023.pdf">Paper</a>&nbsp;|&nbsp;
 <a href="https://youtu.be/XwIKeZ1T4eQ?si=BK6HaZq7ZLGZhbLG">Video</a>&nbsp;|&nbsp;
-<button onclick="function_CVPRW2023()">BibTex</button>
+<button onclick="function_BIBE2023()">BibTex</button>
 <div id="BIBE2023" style="display:none;">
 @INPROCEEDINGS {10431833,
 author = {C. Lee and C. Peng},
@@ -47,10 +47,11 @@ doi = {10.1109/BIBE60311.2023.00060},
 url = {https://doi.ieeecomputersociety.org/10.1109/BIBE60311.2023.00060},
 publisher = {IEEE Computer Society},
 month = {dec}
-}</div>
+}
+</div>
 <script>
-function function_CVPRW2023() {
-  var x = document.getElementById("CVPRW2023");
+function function_BIBE2023() {
+  var x = document.getElementById("BIBE2023");
   if (x.style.display === "none") {
     x.style.display = "block";
   } else {
@@ -90,6 +91,16 @@ articleno = {23},
 numpages = {2},
 series = {SA '23}
 }
+</div>
+<script>
+function function_SigA2023() {
+  var x = document.getElementById("SigA2023");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
 </script>
 </p>
 
@@ -104,8 +115,8 @@ We present an interactive approach to estimating the relative camera pose of two
 <p>Jheng-Wei Su, Kuei-Yu Tung, Chi-Han Peng, Peter Wonka, Hung-Kuo Chu<br>
 Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS) 2023<br>
 <a href="https://papers.nips.cc/paper_files/paper/2023/hash/987bed997ab668f91c822a09bce3ea12-Abstract-Conference.html">NeurIPS Proceedings page</a>&nbsp;|&nbsp;
-<button onclick="function_SigA2023()">BibTex</button>
-<div id="SigA2023" style="display:none;">
+<button onclick="function_NIPS2023()">BibTex</button>
+<div id="NIPS2023" style="display:none;">
 @inproceedings{NEURIPS2023_987bed99,
  author = {Su, Jheng-Wei and Tung, Kuei-Yu and Peng, Chi-Han and Wonka, Peter and Chu, Hung-Kuo (James)},
  booktitle = {Advances in Neural Information Processing Systems},
@@ -116,6 +127,16 @@ Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS) 202
  url = {https://proceedings.neurips.cc/paper_files/paper/2023/file/987bed997ab668f91c822a09bce3ea12-Paper-Conference.pdf},
  volume = {36},
  year = {2023}
+}
+</div>
+<script>
+function function_NIPS2023() {
+  var x = document.getElementById("NIPS2023");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
 }
 </script>
 </p>
