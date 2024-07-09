@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<a href="#2024">2024</a>&nbsp;|&nbsp;<a href="#2023">2023</a>&nbsp;|&nbsp;<a href="#2022">2022</a>&nbsp;|&nbsp;<a href="#2021">2021</a>&nbsp;|&nbsp;<a href="#2020">2020 and older</a>
+<a href="#2024">2024</a>&nbsp;|&nbsp;<a href="#2023">2023</a>&nbsp;|&nbsp;<a href="#2022">2022</a>&nbsp;|&nbsp;<a href="#2021">2021 and older</a>
 
 <hr>
 
@@ -15,7 +15,7 @@ author_profile: true
 <p><a href="/files/ECCV2024.png"><img class="alignleft size-full wp-image-377" src="/files/ECCV2024.png" alt="" width="600"></a></p>
 <p>Chia-Chia Chen and Chi-Han Peng<br>
 The 18th European Conference on Computer Vision (ECCV) 2024<br>
-<a href="https://pengchihan.co/papers/ECCV2024_final.pdf">Paper(preprint)</a>&nbsp;|&nbsp;
+<a href="https://pengchihan.co/papers/ECCV2024_final.pdf">Paper (preprint)</a>&nbsp;|&nbsp;
 <a href="https://github.com/pengchihan/BinaryImageDownsampling">Code</a>
 
 </p>
