@@ -59,8 +59,8 @@ We present an interactive approach to estimating the relative camera pose of two
 <h2>SLIBO-Net: Floorplan Reconstruction via Slicing Box Representation with Local Geometry Regularization</h2>
 <p><a href="/files/SLIBONet.png"><img class="alignleft size-full wp-image-377" src="/files/SLIBONet.png" alt="" width="600"></a></p>
 <p>Jheng-Wei Su, Kuei-Yu Tung, Chi-Han Peng, Peter Wonka, Hung-Kuo Chu<br>
-Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS) 2023, to appear<br>
-<a href="https://openreview.net/forum?id=HYo2Ao3hP8">OpenReview page (with paper download link)</a><br>
+Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS) 2023<br>
+<a href="https://papers.nips.cc/paper_files/paper/2023/hash/987bed997ab668f91c822a09bce3ea12-Abstract-Conference.html">NeurIPS Proceedings page</a><br>
 </p>
 <p>Abstract:<br>
 This paper focuses on improving the reconstruction of 2D floorplans from unstructured 3D point clouds. We identify opportunities for enhancement over the existing methods in three main areas: semantic quality, efficient representation, and local geometric details. To address these, we presents SLIBO-Net, an innovative approach to reconstructing 2D floorplans from unstructured 3D point clouds. We propose a novel transformer-based architecture that employs an efficient floorplan representation, providing improved room shape supervision and allowing for manageable token numbers. By incorporating geometric priors as a regularization mechanism and post-processing step, we enhance the capture of local geometric details. We also propose a scale-independent evaluation metric, correcting the discrepancy in error treatment between varying floorplan sizes. Our approach notably achieves a new state-of-the-art on the Structure3D dataset. The resultant floorplans exhibit enhanced semantic plausibility, substantially improving the overall quality and realism of the reconstructions. We will release code after publication.
