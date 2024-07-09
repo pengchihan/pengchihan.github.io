@@ -15,8 +15,8 @@ author_profile: true
 <p><a href="/files/ECCV2024.png"><img class="alignleft size-full wp-image-377" src="/files/ECCV2024.png" alt="" width="600"></a></p>
 <p>Chia-Chia Chen and Chi-Han Peng<br>
 The 18th European Conference on Computer Vision ECCV 2024<br>
-<a href="https://pengchihan.co/papers/ECCV2024_final.pdf">Paper + Supplementary Materials</a>&nbsp;|&nbsp;
-<a href="https://github.com/pengchihan/BinaryImageDownsampling">Codes (to appear)</a>
+<a href="https://pengchihan.co/papers/ECCV2024_final.pdf">Paper(preprint)</a>&nbsp;|&nbsp;
+<a href="https://github.com/pengchihan/BinaryImageDownsampling">Code</a>
 
 </p>
 <p>Abstract:<br>
