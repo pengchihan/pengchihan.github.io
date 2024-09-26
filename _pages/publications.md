@@ -28,7 +28,7 @@ We present a novel discrete optimization-based approach to generate downsampled 
 <hr>
 
 <h2>Shortest Path Speed-up Through Binary Image Downsampling</h2>
-<p><a href="/files/SigA2024.png"><img class="alignleft size-full wp-image-377" src="/files/SigA2024.png" alt="" width="600"></a></p>
+<p><a href="/files/SigA2024.png"><img class="alignleft size-full wp-image-377" src="/files/SigA2024.png" alt="" width="1000"></a></p>
 <p>Chia-Chia Chen and Chi-Han Peng<br>
 Siggraph Asia 2024 Poster<br>
 <a href="https://pengchihan.co/papers/Sigraph_Asia_2024_full.pdf">Paper (preprint)</a>
