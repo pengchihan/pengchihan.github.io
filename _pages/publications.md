@@ -16,6 +16,22 @@ author_profile: true
 <p>Chia-Chia Chen and Chi-Han Peng<br>
 The 18th European Conference on Computer Vision (ECCV) 2024<br>
 <a href="https://pengchihan.co/papers/ECCV2024_final.pdf">Paper (preprint)</a>&nbsp;|&nbsp;
+<a href="https://chenchiachia.github.io/cc-chen.github.io/">Project page</a>&nbsp;|&nbsp;
+<a href="https://www.youtube.com/watch?v=kZvy20CfXuY">Video</a>&nbsp;|&nbsp;
+<a href="https://github.com/chenchiachia/BinaryImageDownsampling">Code</a>
+
+</p>
+<p>Abstract:<br>
+We present a novel discrete optimization-based approach to generate downsampled versions of binary images that are guaranteed to have the same topology as the original, measured by the zeroth and first Betti numbers of the black regions, while having good similarity to the original image as measured by IoU and Dice scores. To our best knowledge, all existing binary image downsampling methods don’t have such topology-preserving guarantees. We also implemented a baseline morphological operation (dilation)-based approach that always generates topologically correct results. However, we found the similarity scores to be much worse. We demonstrate several applications of our approach. First, generating smaller versions of medical image segmentation masks for easier human inspection. Second, improving the efficiency of binary image operations, including persistent homology computation and shortest path computation, by substituting the original images with smaller ones. In particular, the latter is a novel application that is made feasible only by the full topology-preservation guarantee of our method.
+</p>
+
+<hr>
+
+<h2>Topology-Preserving Downsampling of Binary Images</h2>
+<p><a href="/files/ECCV2024.png"><img class="alignleft size-full wp-image-377" src="/files/ECCV2024.png" alt="" width="600"></a></p>
+<p>Chia-Chia Chen and Chi-Han Peng<br>
+The 18th European Conference on Computer Vision (ECCV) 2024<br>
+<a href="https://pengchihan.co/papers/ECCV2024_final.pdf">Paper (preprint)</a>&nbsp;|&nbsp;
 <a href="https://github.com/pengchihan/BinaryImageDownsampling">Code</a>
 
 </p>
@@ -24,6 +40,7 @@ We present a novel discrete optimization-based approach to generate downsampled 
 </p>
 
 <hr>
+
 
 <a id="2023"></a>
 
