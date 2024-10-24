@@ -31,8 +31,8 @@ We present a novel discrete optimization-based approach to generate downsampled 
 <p><a href="/files/SigA2024.png"><img class="alignleft size-full wp-image-377" src="/files/SigA2024.png" alt="" width="800"></a></p>
 <p>Chia-Chia Chen and Chi-Han Peng<br>
 Siggraph Asia 2024 Poster, to appear<br>
-<a href="https://pengchihan.co/papers/Sigraph_Asia_2024_full.pdf">Paper (preprint)</a>
-
+<a href="https://pengchihan.co/papers/Sigraph_Asia_2024_full.pdf">Paper (preprint)</a>&nbsp;|&nbsp;
+<a href="https://pengchihan.co/papers/Sigraph_Asia_2024_poster.pdf">Poster</a>
 </p>
 <p>Abstract:<br>
 We propose a novel approach to achieve huge speed-ups for shortest path computations on 2D binary images at the cost of slight inaccuracies. This is done by migrating the arc flag-based shortest path methods, which can deliver large speed-ups for run-time shortest path computations but needed a computationally expensive preprocessing step, to work on downsampled versions of the input images. Through extensive tests, we found that our approach hugely reduces the costs of the preprocessing step, therefore resolved a performance bottleneck of the arc flag-based methods.</p>
