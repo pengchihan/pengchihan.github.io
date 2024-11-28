@@ -10,9 +10,7 @@ redirect_from:
 
 I am an Assistant Professor at the <a href="https://ai.nycu.edu.tw/en/">College of AI</a>, <a href="https://en.nycu.edu.tw/">National Yang Ming Chiao Tung University (NYCU)</a>. My research areas include AI/neural networks, computer graphics, geometric processing, and computer vision.  In particular, I am interested in novel computational methods for the architecture, engineering, and construction (AEC) industries enabled by AI. I also work with hospitals to develop AI-based methods for medicine.
 
-I was a research scientist at the <a href="https://vcc.kaust.edu.sa">Visual Computing Center</a> at <a href="http://www.kaust.edu.sa">King Abdullah University of Science and Technology (KAUST)</a>, working with Prof. <a href="http://peterwonka.net/">Peter Wonka</a>.
-
-I was a postdoctoral research associate at University College London (UCL), working with Prof. <a href="http://www0.cs.ucl.ac.uk/staff/n.mitra/">Niloy Mitra</a>. I worked at <a href="http://www.nogle.com">Nogle</a>, a software company based in Taipei, on the 3D modelling and simulation of garments.
+I was a research scientist at the <a href="https://vcc.kaust.edu.sa">Visual Computing Center</a> at <a href="http://www.kaust.edu.sa">King Abdullah University of Science and Technology (KAUST)</a>, working with Prof. <a href="http://peterwonka.net/">Peter Wonka</a>. I was a postdoctoral research associate at University College London (UCL), working with Prof. <a href="http://www0.cs.ucl.ac.uk/staff/n.mitra/">Niloy Mitra</a>. I worked at <a href="http://www.nogle.com">Nogle</a>, a software company based in Taipei, on the 3D modelling and simulation of garments.
 
 I received PhD in Computer Science at Arizona State University. My thesis, <a href="https://keep.lib.asu.edu/items/153051">Connectivity Control for Quad-Dominant Meshes</a>, was supervised by Prof. Peter Wonka. During my PhD studies, I also took summer intern at Adobe ATL (supervised by Dr. Nathan Carr and Radomir Mech) and visited KAUST, Saudi Arabia, and TU Vienna, Austria, for research collaborations.
 
