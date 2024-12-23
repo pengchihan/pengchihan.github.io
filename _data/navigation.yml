@@ -9,11 +9,11 @@ main:
   - title: "Resume"
     url: /cv/
 
-#  - title: "Teaching"
-#    url: /teaching/   
+  - title: "Teaching"
+    url: /teaching/   
 
-#  - title: "Work Experience"
-#    url: /work/
+  - title: "Work Experience"
+    url: /work/
 
   - title: "Patents"
     url: /patents/ 
