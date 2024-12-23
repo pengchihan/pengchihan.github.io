@@ -47,7 +47,9 @@ Developed real-time methods in C/C++ to deform 3D models of garments to fit diff
 
 <h2>University College London (UCL), UK</h2>
 <p><b>Postdoc</b>. Adviser: Prof. Niloy Mitra, Department of Computer Science, UCL.<br>
-2015-2016 </p>
+2015-2016<br>
+Published 1 paper in in top conference in Computer Graphics (Siggraph).
+</p>
 
 <hr>
 

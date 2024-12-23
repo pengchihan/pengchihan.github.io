@@ -9,14 +9,14 @@ main:
   - title: "Resume"
     url: /cv/
 
-  - title: "Teaching"
-    url: /teaching/   
-
   - title: "Work Experience"
     url: /work/
 
   - title: "Patents"
     url: /patents/ 
+    
+  - title: "Teaching"
+    url: /teaching/   
 
   - title: "Serendipity"
     url: /serendipity/     
