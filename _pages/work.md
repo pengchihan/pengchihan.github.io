@@ -8,8 +8,12 @@ author_profile: true
 <hr>
 
 <h2>National Yang Ming Chiao Tung University (NYCU), Taiwan.</h2>
-<p><b>Assistant Professor</b>. College of AI<br>
-2020-present</p>
+<p>2020-present <b>Assistant Professor</b>. College of AI<br>
+* Courses taught: Introduction to Computer Graphics, 3D Computer Vision, Introduction to Integer Programming. Average student rating: 4.7 out of 5.
+* Coauthored 9 research papers with my own students, including papers published in prestigious ECCV, Siggraph Asia, and WACV conferences. 
+* Won the "Excellent Supervisor Award” in my school in 2021.
+* Acquired 2 major research funding as principal investigator.
+</p>
 
 <hr>
 
