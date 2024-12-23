@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-<p><a href="/files/CV_ChiHanPeng.pdf">Download</a></p>
+<p><a href="/files/resume_ChiHanPeng.pdf">Download</a></p>
 
-<p><a href="/files/CV_ChiHanPeng.pdf"><object class="vanilla-pdf-embed" data="/files/CV_ChiHanPeng.pdf#page=1&view=FitH" type="application/pdf" width="1100" height="7000">
+<p><a href="/files/resume_ChiHanPeng.pdf"><object class="vanilla-pdf-embed" data="/files/resume_ChiHanPeng.pdf#page=1&view=FitH" type="application/pdf" width="1100" height="7000">
 <p><a href="width="1100" height="7000"">Download the PDF file .</a></p>
 </object></a></p>
