@@ -8,10 +8,15 @@ author_profile: true
 <hr>
 
 <h2>National Yang Ming Chiao Tung University (NYCU), Taiwan.</h2>
-<p>2020-present <b>Assistant Professor</b>. College of AI<br>
+<p><b>Assistant Professor</b>. College of AI<br>
+2020-present 
+
 * Courses taught: Introduction to Computer Graphics, 3D Computer Vision, Introduction to Integer Programming. Average student rating: 4.7 out of 5.
+
 * Coauthored 9 research papers with my own students, including papers published in prestigious ECCV, Siggraph Asia, and WACV conferences. 
+
 * Won the "Excellent Supervisor Award” in my school in 2021.
+
 * Acquired 2 major research funding as principal investigator.
 </p>
 
@@ -19,19 +24,26 @@ author_profile: true
 
 <h2>ShanghaiTech University, China</h2>
 <p><b>Assistant Professor</b>. School of Information Science and Technology.<br>
-2019-2020</p>
+2019-2020
+</p>
 
 <hr>
 
 <h2>King Abdullah University of Science and Technology (KAUST), Saudi Arabia</h2>
 <p><b>Research Scientist</b>. Visual Computing Center.<br>
-2017-2019</p>
+2017-2019
+
+* Published 2 papers in top conference in Computer Graphics (Siggraph/Siggraph Asia) and 1 paper in top conference in AI/CV (CVPR).
+
+</p>
 
 <hr>
 
 <h2>Nogle, Taiwan</h2>
-<p><b>Software Engineer</b>. 3D modeling and simulation for real-world clothes.<br>
+<p><b>Software Engineer</b><br>
 2016-2017</p>
+
+* Developed real-time methods in C/C++ to deform 3D models of garments to fit different body shapes. My contributions were published as a US patent (no. US9754410B2.)
 
 <hr>
 
