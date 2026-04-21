@@ -11,11 +11,11 @@ author_profile: true
 
 <a id="2025"></a>
 
-h2>Improving Registration-Based High-Resolution Panorama Depth Estimation with Enhanced Fine Details</h2>
+<h2>Improving Registration-Based High-Resolution Panorama Depth Estimation with Enhanced Fine Details</h2>
 <p><a href="/files/SigA2025Poster.jpg"><img class="alignleft size-full wp-image-377" src="/files/SigA2025Poster.jpg" alt="" width="800"></a></p>
 <p>Yu-Shen Yang and Chi-Han Peng<br>
 Siggraph Asia 2025 Poster<br>
-<a href="SigA2025Poster.pdf">Paper (preprint)</a>
+<a href="/files/SigA2025Poster.pdf">Paper (preprint)</a>
 </p>
 <p>Abstract:<br>
 Current stitching- and registration-based panoramic depth estimation methods produce high-resolution depth maps (2048×1024) but remain limited in accuracy. Following [Peng and Zhang 2023], we adopt a three-step pipeline: improved stitched depth estimation, seamless depth generation, and detail enhancement (Fig ). We introduce a new partition strategy and apply a SOTA perspective depth model to obtain stitched depth, refined by our SeamRemove model based on EfficientNet-B0 [Tan and Le 2019]. Finally, registration and Poisson blending further enhance fine details. Compared to [Cao and Wang 2024; Peng and Zhang 2023], our method achieves higher quantitative accuracy and better visual quality.
