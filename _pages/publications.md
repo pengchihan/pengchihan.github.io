@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<a href="#2024">2025</a>, <a href="#2024">2024</a> , <a href="#2023">2023</a> , <a href="#2022">2022</a> , <a href="#2021">2021 and older</a>
+<a href="#2025">2025</a>, <a href="#2024">2024</a> , <a href="#2023">2023</a> , <a href="#2022">2022</a> , <a href="#2021">2021 and older</a>
 
 <hr>
 
@@ -15,10 +15,21 @@ author_profile: true
 <p><a href="/files/SigA2025Poster.jpg"><img class="alignleft size-full wp-image-377" src="/files/SigA2025Poster.jpg" alt="" width="800"></a></p>
 <p>Yu-Shen Yang and Chi-Han Peng<br>
 Siggraph Asia 2025 Poster<br>
-<a href="/files/SigA2025Poster.pdf">Paper (preprint)</a>
+<a href="/files/SigA2025Poster.pdf">Paper</a>
 </p>
 <p>Abstract:<br>
 Current stitching- and registration-based panoramic depth estimation methods produce high-resolution depth maps (2048×1024) but remain limited in accuracy. Following [Peng and Zhang 2023], we adopt a three-step pipeline: improved stitched depth estimation, seamless depth generation, and detail enhancement (Fig ). We introduce a new partition strategy and apply a SOTA perspective depth model to obtain stitched depth, refined by our SeamRemove model based on EfficientNet-B0 [Tan and Le 2019]. Finally, registration and Poisson blending further enhance fine details. Compared to [Cao and Wang 2024; Peng and Zhang 2023], our method achieves higher quantitative accuracy and better visual quality.
+</p>
+
+<hr>
+
+<h2>Leveraging the Availability of Larger Fov Images in Panoramas for Image Inpainting</h2>
+<p>Yu-Hsuan Lin, Chih-Yu Wang, and Chi-Han Peng<br>
+NICOGRAPH international 2025<br>
+<a href="/files/NICOInt2025.pdf">Paper</a>
+</p>
+<p>Abstract:<br>
+Image inpainting methods synthesize missing regions (”masks”) within images. Modern approaches, powered by neural networks, generate content far beyond simple color extrapolation. A common observation is that performance degrades as the mask-to-image ratio increases. This motivates a strategy for panoramic inpainting: reducing the mask-to-image ratio by temporarily using an alternative view with a larger field-of-view (FOV) angle. In this paper, we analyze the impact of varying FOVs on the performance of two recent inpainting methods [1], [2] across different datasets. Our results reveal that moderate FOV enlargement improves performance, while excessive enlargement can instead degrade it.
 </p>
 
 <hr>
