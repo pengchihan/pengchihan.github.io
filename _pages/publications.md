@@ -222,7 +222,8 @@ Reconstructing 3D layouts from multiple 360∘ panoramas has received increasing
 <h2>Distortion Reduction for Off-Center Perspective Projection of Panoramas</h2>
 <p><a href="/files/nicograph.jpg"><img class="alignleft size-full wp-image-377" src="/files/nicograph.jpg" alt="" width="600"></a></p>
 <p>Chi-Han Peng, Jiayao Zhang, Chia-Chia Chen, Yun-Wei Lin<br>
-<a href="https://www.art-science.org/nicograph/nicoint2023/#nicoint2023-award">NICOGRAPH International 2023</a>. <font color="red">*Best Short Paper Award</font><br>
+<a href="https://www.art-science.org/nicograph/nicoint2023/#nicoint2023-award">NICOGRAPH International 2023</a>.<br>
+<!-- <font color="red">*Best Short Paper Award</font> -->
 <a href="https://pengchihan.co/papers/NICOGRAPH2023_final.pdf">Paper</a>&nbsp;|&nbsp;
 <a href="https://www.youtube.com/watch?v=HvtsekvsQI0">Video</a>&nbsp;|&nbsp;
 <a href="https://pengchihan.co/papers/NICOGRAPH2023.pptx">Slides</a>&nbsp;|&nbsp;
@@ -302,7 +303,7 @@ We propose a novel approach to compute high-resolution (2048x1024 and higher) de
 <h2>H&E Stain Normalization using U-Net</h2>
 <p><a href="/files/BIBE_Results.png"><img class="alignleft size-full wp-image-377" src="/files/BIBE_Results.png" alt="" width="600"></a></p>
 <p>Chi-Chen Lee, Po-Tsun Paul Kuo, and Chi-Han Peng<br>
-<a href="https://bibe2022.asia.edu.tw/">IEEE International Conference on BioInformatics and BioEngineering (BIBE)</a>, 2022 (short paper)<br>
+<a href="https://bibe2022.asia.edu.tw/">IEEE International Conference on BioInformatics and BioEngineering (BIBE)</a>, 2022<br>
 <a href="https://pengchihan.co/papers/BIBE2022_paper.pdf">Paper</a>&nbsp;|&nbsp;<a href="https://arxiv.org/abs/2211.05420">Arxiv</a>&nbsp;|&nbsp;<button onclick="function_BIBE2022()">BibTex</button>
 <div id="BIBE2022" style="display:none;">
 @INPROCEEDINGS {9973557,<br>
