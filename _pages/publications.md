@@ -5,7 +5,20 @@ permalink: /publications/
 author_profile: true
 ---
 
-<a href="#2025">2025</a>, <a href="#2024">2024</a> , <a href="#2023">2023</a> , <a href="#2022">2022</a> , <a href="#2021">2021 and older</a>
+<a href="#2026">2026</a>, <a href="#2025">2025</a>, <a href="#2024">2024</a> , <a href="#2023">2023</a> , <a href="#2022">2022</a> , <a href="#2021">2021 and older</a>
+
+<hr>
+
+<a id="2026"></a>
+
+<h2>PairRankRAG: Pairwise Chunk Ranking for Retrieval-Augmented Generation</h2>
+<p>Tzu-Ming Kuo and Chi-Han Peng<br>
+The 18th Asian Conference on Machine Learning (ACML). Conditonally Accepted.<br>
+<a href="/files/126_PairRankRAG_Pairwise_Chunk.pdf">Paper (author's version)</a>
+</p>
+<p>Abstract:<br>
+Retrieval-Augmented Generation (RAG) methods typically retrieve chunks independently based on vector similarity, which may overlook semantic dependencies across paragraphs in long-form narrative QA. We propose PairRankRAG, a pairwise chunk ranking framework that uses LLM-based comparisons to estimate query relevance and aggregates preferences with the Bradley–Terry model. To preserve narrative coherence, selected chunks are reordered by their original document positions. Experiments on NarrativeQA and GutenQA show improved evidence selection, including a 4.2% relative ROUGE-L gain on NarrativeQA and the highest LLM-based correctness score among the methods evaluated in this study on GutenQA.
+</p>
 
 <hr>
 
