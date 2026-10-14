@@ -24,6 +24,19 @@ Retrieval-Augmented Generation (RAG) methods typically retrieve chunks independe
 
 <hr>
 
+<h2>MegaVGGT: Extending Vision Geometry Models to Large-Scale Complex Scenes with Vision Place Recognition</h2>
+<p><a href="/files/CGW2026_MegaVGGT.png"><img class="alignleft size-full wp-image-377" src="/files/CGW2026_MegaVGGT.png" alt="" width="800"></a></p>
+
+<p>Ming Rui Yu, Danki Ho, and Chi-Han Peng<br>
+Computer Graphics Workshop (CGW), 2026<br>
+<a href="/files/CGW2026_MegaVGGT.pdf">Paper</a>
+</p>
+<p>Abstract:<br>
+Visual Geometry Transformer models offer fast feedforward 3D reconstruction without scene-specific training, yet their all-pairs attention mechanism imposes a hard memory boundary that prevents direct application to large-scale scenes with thousands of images. We introduce MegaVGGT, a framework that uses visual place recognition (VPR) model to extends foundation models to large-scale, unordered, and heterogeneous image collections, including mixed drone, ground-level, and multicamera captures beyond sequential assumptions. Experiments on standard indoor and outdoor benchmarks demonstrate that our method not only scales to scenes that exceed the memory budget of single-pass foundation models, but also achieves superior pose accuracy compared to existing scalable alternatives, with particular gains on unordered and structurally complex scenes.
+</p>
+
+<hr>
+
 <a id="2025"></a>
 
 <h2>Improving Registration-Based High-Resolution Panorama Depth Estimation with Enhanced Fine Details</h2>
