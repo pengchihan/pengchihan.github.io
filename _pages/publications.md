@@ -15,7 +15,7 @@ author_profile: true
 <p><a href="/files/PairRankRAG.png"><img class="alignleft size-full wp-image-377" src="/files/PairRankRAG.png" alt="" width="800"></a></p>
 
 <p>Tzu-Ming Kuo and Chi-Han Peng<br>
-The 18th Asian Conference on Machine Learning (ACML). Conditonally Accepted.<br>
+The 18th Asian Conference on Machine Learning (ACML). Accepted.<br>
 <a href="/files/126_PairRankRAG_Pairwise_Chunk.pdf">Paper (author's version)</a>
 </p>
 <p>Abstract:<br>
