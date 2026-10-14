@@ -12,6 +12,8 @@ author_profile: true
 <a id="2026"></a>
 
 <h2>PairRankRAG: Pairwise Chunk Ranking for Retrieval-Augmented Generation</h2>
+<p><a href="/files/PairRankRAG.png"><img class="alignleft size-full wp-image-377" src="/files/PairRankRAG.png" alt="" width="800"></a></p>
+
 <p>Tzu-Ming Kuo and Chi-Han Peng<br>
 The 18th Asian Conference on Machine Learning (ACML). Conditonally Accepted.<br>
 <a href="/files/126_PairRankRAG_Pairwise_Chunk.pdf">Paper (author's version)</a>
